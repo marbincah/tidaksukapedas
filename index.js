@@ -11,7 +11,7 @@ function initGallery(event) {
     if (data.length > 0) {
         setImageStyle(data, photos)
         for (var i = 0; i < photos.length; i++) {
-            document.getElementById('gallery-wrapper').innerHTML += '<img class="food" style="width:' + photos[i].width + 'px;height:' + photos[i].height + 'px;" src="' + photos[i].url + '">'
+            document.getElementById('gallery-wrapper').innerHTML += '<img lazyload class="food" style="width:' + photos[i].width + 'px;height:' + photos[i].height + 'px;" src="' + photos[i].url + '">'
         }
     }
 
@@ -20,7 +20,7 @@ function initGallery(event) {
 function setImageStyle(data, photos) {
     var rowAspectRatio = 0;
     var row = []
-    var limitAspectRatio = 5;
+    var limitAspectRatio = 3;
     var wrapperWidth = document.getElementById('gallery-wrapper').getBoundingClientRect().width;
     var imageSpace = 10;
 
