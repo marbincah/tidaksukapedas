@@ -9,6 +9,7 @@ function initGallery(event) {
     var data = obj.photos
     var photos = []
     if (data.length > 0) {
+        sortImage(data);
         setImageStyle(data, photos)
         for (var i = 0; i < photos.length; i++) {
             document.getElementById('gallery-wrapper').innerHTML += '<img lazyload class="food" style="width:' + photos[i].width + 'px;height:' + photos[i].height + 'px;" src="' + photos[i].url + '">'
@@ -54,4 +55,8 @@ function setImageStyle(data, photos) {
 
     }
 
+}
+
+function sortImage(data) {
+    data.sort((data1, data2) => (data1.fileName > data2.fileName) ? -1 : ((data2.fileName > data1.fileName) ? 1 : 0))
 }
