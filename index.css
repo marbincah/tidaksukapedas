@@ -16,4 +16,20 @@ body {
 
 .food {
     margin-bottom: 10px;
+    object-fit: cover;
+}
+
+/* On screens that are 992px or less */
+@media screen and (max-width: 992px) {
+    #gallery-wrapper {
+        max-width: 80vw;
+    }
+}
+
+/* On screens that are 600px or less */
+@media screen and (max-width: 600px) {
+    #gallery-wrapper {
+        max-width: 95vw;
+        margin: 0;
+    }
 }

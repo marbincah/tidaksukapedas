@@ -3,57 +3,69 @@ xhr.open("GET", "/data/photos.json");
 xhr.addEventListener('load', initGallery);
 xhr.send();
 
+var data = []
+window.addEventListener('resize', function () {
+    setImageStyle(data);
+})
+
 function initGallery(event) {
     var json = this.responseText;
     var obj = JSON.parse(json);
-    var data = obj.photos
-    var photos = []
+    data = obj.photos
     if (data.length > 0) {
         sortImage(data);
-        setImageStyle(data, photos)
-        for (var i = 0; i < photos.length; i++) {
-            document.getElementById('gallery-wrapper').innerHTML += '<img lazyload class="food" style="width:' + photos[i].width + 'px;height:' + photos[i].height + 'px;" src="' + photos[i].url + '">'
+        for (var i = 0; i < data.length; i++) {
+            document.getElementById('gallery-wrapper').innerHTML += '<img class="food" id="' + data[i].fileName + '" src="' + data[i].url + '">'
         }
+        setImageStyle(data)
     }
-
 }
 
-function setImageStyle(data, photos) {
+function setImageStyle(data) {
     var rowAspectRatio = 0;
     var row = []
     var limitAspectRatio = 3;
     var wrapperWidth = document.getElementById('gallery-wrapper').getBoundingClientRect().width;
     var imageSpace = 10;
 
-    for (var i = 0; i < data.length; i++) {
-        rowAspectRatio += data[i].ratio;
-        row.push(data[i])
+    if (window.screen.width > 600) {
+        for (var i = 0; i < data.length; i++) {
+            rowAspectRatio += data[i].ratio;
+            row.push(data[i])
 
-        var rowWidth = 0;
-        var rowHeight = 0;
+            var rowWidth = 0;
+            var rowHeight = 0;
 
-        if (rowAspectRatio >= limitAspectRatio || i + 1 == data.length) {
-            rowAspectRatio = Math.max(rowAspectRatio, limitAspectRatio);
+            if (rowAspectRatio >= limitAspectRatio || i + 1 == data.length) {
+                rowAspectRatio = Math.max(rowAspectRatio, limitAspectRatio);
 
-            rowWidth = wrapperWidth - (row.length - 1) * imageSpace;
-            rowHeight = rowWidth / rowAspectRatio;
-        }
-
-        if (row.length != 0 && rowWidth != 0 && rowHeight != 0) {
-            for (var j = 0; j < row.length; j++) {
-                row[j].width = rowHeight*row[j].ratio;
-                row[j].height = rowHeight;
-
-                photos.push(row[j]);
+                rowWidth = wrapperWidth - (row.length - 1) * imageSpace;
+                rowHeight = rowWidth / rowAspectRatio;
             }
-            rowWidth = 0;
-            rowHeight = 0;
-            row = [];
-            rowAspectRatio = 0;
+
+            if (row.length != 0 && rowWidth != 0 && rowHeight != 0) {
+                for (var j = 0; j < row.length; j++) {
+                    document.getElementById(row[j].fileName).style.width = rowHeight * row[j].ratio + 'px'
+                    document.getElementById(row[j].fileName).style.height = rowHeight + 'px'
+                }
+                rowWidth = 0;
+                rowHeight = 0;
+                row = [];
+                rowAspectRatio = 0;
+            }
+
+
         }
-
-
+    } else {
+        var images = document.getElementsByClassName('food');
+        var imageSize = (wrapperWidth - 20) / 3;
+        for (var i = 0, len = images.length; i < len; i++) {
+            images[i].style.width = imageSize + 'px';
+            images[i].style.height = imageSize + 'px';
+        }
     }
+
+
 
 }
 
