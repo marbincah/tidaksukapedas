@@ -19,6 +19,30 @@ body {
     object-fit: cover;
 }
 
+#gallery-pagination {
+    text-align: center;
+    margin: 30px 0;
+}
+
+#prev-button, #next-button, .page-button {
+    padding: 15px 20px;
+    margin: 0 5px;
+}
+
+#prev-button:hover, #next-button:hover, .page-button:hover {
+    background-color: #F5F5F5;
+    color: #3F3F3F;
+    border-radius: 50%;
+}
+
+.page-button.active {
+    background-color: #3F3F3F;
+    color: #F5F5F5;
+    border-radius: 50%;
+}
+
+
+
 /* On screens that are 992px or less */
 @media screen and (max-width: 992px) {
     #gallery-wrapper {
@@ -28,8 +52,10 @@ body {
 
 /* On screens that are 600px or less */
 @media screen and (max-width: 600px) {
+    body {
+        margin: 0;
+    }
     #gallery-wrapper {
         max-width: 95vw;
-        margin: 0;
     }
 }
