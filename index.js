@@ -50,6 +50,28 @@ function initGallery(event) {
     pageInput.addEventListener("keyup", function (e) {
         inputPage(e.target.value);
     })
+
+    var modal = document.getElementById('modal');
+    var food = document.getElementsByClassName('food');
+    var close = document.getElementsByClassName('close')[0];
+
+    for (let i = 0; i < food.length; i++) {
+        food[i].addEventListener("click", function () {
+            var src = this.src;
+            document.getElementById('food-image').src = src;
+            modal.style.display = "block";
+        })
+    }
+
+    close.addEventListener("click", function () {
+        modal.style.display = "none";
+    })
+
+    window.addEventListener("click", function (event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    });
 }
 
 function setImageStyle() {
