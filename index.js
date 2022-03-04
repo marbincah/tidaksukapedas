@@ -30,18 +30,25 @@ function initGallery(event) {
         })
     }
 
+    var pageInput = document.getElementById('pagination-input');
     var nextButton = document.getElementById('next-button');
-    nextButton.addEventListener("click", function() {
+    nextButton.addEventListener("click", function () {
         if (totalPage > currentPage) {
-            selectPage(currentPage+1);
+            inputPage(currentPage + 1);
         }
+        pageInput.value = currentPage;
     })
 
     var prevButton = document.getElementById('prev-button');
-    prevButton.addEventListener("click", function() {
+    prevButton.addEventListener("click", function () {
         if (currentPage > 1) {
-            selectPage(currentPage-1);
+            inputPage(currentPage - 1);
         }
+        pageInput.value = currentPage;
+    })
+
+    pageInput.addEventListener("keyup", function (e) {
+        inputPage(e.target.value);
     })
 }
 
@@ -101,21 +108,33 @@ function sortImage() {
 
 function setPagination() {
     var pageNumber = document.getElementById('page-numbers');
-    pageNumber.innerHTML = "";
 
-    for (var i = 1; i < totalPage + 1; i++) {
-        pageNumber.innerHTML += "<span class='page-button'>" + i + "</span>";
+    pageNumber.innerHTML += "<input type='number' id='pagination-input' value='" + currentPage + "'><span>of " + totalPage + " pages </span>"
+}
+
+function inputPage(page) {
+    var targetPage = page;
+
+    if (page == 0) {
+        return;
+    } else if (page > totalPage) {
+        targetPage = totalPage
+        document.getElementById('pagination-input').value = targetPage;
+    } else if (page < 0) {
+        targetPage = 1
+        document.getElementById('pagination-input').value = targetPage;
     }
+    selectPage(targetPage);
 }
 
 function selectPage(page) {
     currentPage = page;
-    
+
     var pageNumber = document.getElementById('page-numbers');
     var pageButton = pageNumber.children;
     for (var i = 0; i < pageButton.length; i++) {
         pageButton[i].classList.remove('active');
-        if (i == page-1) pageButton[i].classList.add('active')
+        if (i == page - 1) pageButton[i].classList.add('active')
     }
 
     photos = data.slice((page - 1) * totalImagePerPage, ((page - 1) * totalImagePerPage) + totalImagePerPage);
@@ -123,6 +142,15 @@ function selectPage(page) {
     wrapper.innerHTML = ''
     for (var i = 0; i < photos.length; i++) {
         document.getElementById('gallery-wrapper').innerHTML += '<img lazyload class="food" id="' + photos[i].fileName + '" src="' + photos[i].url + '">'
+    }
+
+    if (currentPage == 1) {
+        document.getElementById('prev-button').classList.add('disabled');
+    } else if (currentPage == totalPage) {
+        document.getElementById('next-button').classList.add('disabled');
+    } else {
+        document.getElementById('prev-button').classList.remove('disabled');
+        document.getElementById('next-button').classList.remove('disabled');
     }
 
     setImageStyle();

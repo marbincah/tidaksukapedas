@@ -24,12 +24,21 @@ body {
     margin: 30px 0;
 }
 
-#prev-button, #next-button, .page-button {
+#prev-button,
+#next-button,
+.page-button {
     padding: 15px 20px;
     margin: 0 5px;
 }
 
-#prev-button:hover, #next-button:hover, .page-button:hover {
+#prev-button.disabled,
+#next-button.disabled {
+    color: #F5F5F5;
+}
+
+#prev-button:not(.disabled):hover,
+#next-button:not(.disabled):hover,
+.page-button:hover {
     background-color: #F5F5F5;
     color: #3F3F3F;
     border-radius: 50%;
@@ -41,7 +50,24 @@ body {
     border-radius: 50%;
 }
 
+#pagination-input {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    margin-right: 10px;
+}
 
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+}
 
 /* On screens that are 992px or less */
 @media screen and (max-width: 992px) {
@@ -55,6 +81,7 @@ body {
     body {
         margin: 0;
     }
+
     #gallery-wrapper {
         max-width: 95vw;
     }
