@@ -104,6 +104,14 @@ input[type=number] {
       max-height: 50vh;
       object-fit: contain;
   }
+
+  #location {
+      line-height: 30px;
+  }
+
+  #location > div > a {
+    color: black;
+  }
   
   .close {
     color: #aaaaaa;
