@@ -21,6 +21,11 @@ function popupImage() {
     for (let i = 0; i < food.length; i++) {
         food[i].addEventListener("click", function () {
             var src = this.src;
+            var item = data.filter(imageData => imageData.fileName === this.id)[0];
+            var location = document.getElementById('location');
+            if (item.location && item.locationUrl) {
+                location.innerHTML += "<div>📍 <a target='_blank' href='" + item.locationUrl + "'>" + item.location + "</a></div>";
+            }
             document.getElementById('food-image').src = src;
             modal.style.display = "block";
         })
