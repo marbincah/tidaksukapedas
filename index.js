@@ -48,7 +48,7 @@ function initGallery(event) {
     data = obj.photos
     totalPage = Math.ceil(data.length / totalImagePerPage);
     if (data.length > 0) {
-        sortImage();
+        shuffleImage();
         setPagination();
         selectPage(currentPage);
     }
@@ -134,6 +134,16 @@ function setImageStyle() {
 
 function sortImage() {
     data.sort((data1, data2) => (data1.fileName > data2.fileName) ? -1 : ((data2.fileName > data1.fileName) ? 1 : 0))
+}
+
+function shuffleImage() {
+    for (var i = 0; i < data.length - 1; i++) {
+        var j = i + Math.floor(Math.random() * (data.length - i));
+
+        var temp = data[j];
+        data[j] = data[i];
+        data[i] = temp;
+    }
 }
 
 function setPagination() {
