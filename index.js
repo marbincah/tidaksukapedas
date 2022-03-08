@@ -1,5 +1,5 @@
 var xhr = new XMLHttpRequest();
-xhr.open("GET", "/data/photos.json");
+xhr.open("GET", "resize.json");
 xhr.addEventListener('load', initGallery);
 xhr.send();
 
