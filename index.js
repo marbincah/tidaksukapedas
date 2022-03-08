@@ -48,7 +48,7 @@ function initGallery(event) {
     data = obj.photos
     totalPage = Math.ceil(data.length / totalImagePerPage);
     if (data.length > 0) {
-        shuffleImage();
+        sortImage();
         setPagination();
         selectPage(currentPage);
     }
