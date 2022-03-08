@@ -7,7 +7,7 @@ var data = [];
 var photos = [];
 var currentPage = 1;
 var totalPage = 1;
-var totalImagePerPage = 18;
+var totalImagePerPage = 21;
 
 window.addEventListener('resize', function () {
     setImageStyle(data);
@@ -84,7 +84,7 @@ function initGallery(event) {
 function setImageStyle() {
     var rowAspectRatio = 0;
     var row = []
-    var limitAspectRatio = 3;
+    var limitAspectRatio = 4;
     var wrapperWidth = document.getElementById('gallery-wrapper').getBoundingClientRect().width;
     var imageSpace = 10;
 
