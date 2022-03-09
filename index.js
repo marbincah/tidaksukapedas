@@ -23,6 +23,7 @@ function popupImage() {
             var src = this.src;
             var item = data.filter(imageData => imageData.fileName === this.id)[0];
             var location = document.getElementById('location');
+            location.innerHTML = "";
             if (item.location && item.locationUrl) {
                 location.innerHTML += "<div>📍 <a target='_blank' href='" + item.locationUrl + "'>" + item.location + "</a></div>";
             }
