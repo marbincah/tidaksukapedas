@@ -147,5 +147,10 @@ input[type=number] {
 
     .modal-content {
         width: 80%;
+        padding: 10px;
+    }
+
+    .close {
+        margin-bottom: 10px;
     }
 }
