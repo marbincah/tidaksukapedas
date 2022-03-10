@@ -149,7 +149,7 @@ function shuffleImage() {
 
 function setPagination() {
     var pageNumber = document.getElementById('page-numbers');
-
+    pageNumber.innerHTML = "";
     pageNumber.innerHTML += "<input type='number' id='pagination-input' value='" + currentPage + "'><span>of " + totalPage + " pages </span>"
 }
 
