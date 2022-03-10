@@ -7,9 +7,15 @@ var data = [];
 var photos = [];
 var currentPage = 1;
 var totalPage = 1;
-var totalImagePerPage = 21;
+var totalImagePerPageOnMobile = 30;
+var imageIndexPerPage = [0];
+var limitAspectRatio = 4;
+var imageSpace = 10;
+var wrapperWidth = document.getElementById('gallery-wrapper').getBoundingClientRect().width;
 
 window.addEventListener('resize', function () {
+    sliceDataArray();
+    setPagination();
     setImageStyle(data);
 })
 
@@ -43,13 +49,13 @@ function popupImage() {
     });
 }
 
-function initGallery(event) {
+function initGallery() {
     var json = this.responseText;
     var obj = JSON.parse(json);
     data = obj.photos
-    totalPage = Math.ceil(data.length / totalImagePerPage);
     if (data.length > 0) {
         sortImage();
+        sliceDataArray();
         setPagination();
         selectPage(currentPage);
     }
@@ -82,12 +88,51 @@ function initGallery(event) {
     })
 }
 
+function sliceDataArray() {
+    var rowAspectRatio = 0;
+    var totalRow = 0;
+    var row = []
+    imageIndexPerPage = [];
+    if (window.screen.width > 600) {
+        for (var i = 0; i < data.length; i++) {
+            rowAspectRatio += data[i].ratio;
+            row.push(data[i])
+
+            var rowWidth = 0;
+            var rowHeight = 0;
+            if (rowAspectRatio >= limitAspectRatio || i + 1 == data.length) {
+                rowAspectRatio = Math.max(rowAspectRatio, limitAspectRatio);
+
+                rowWidth = wrapperWidth - (row.length - 1) * imageSpace;
+                rowHeight = rowWidth / rowAspectRatio;
+            }
+
+            if (row.length != 0 && rowWidth != 0 && rowHeight != 0) {
+                rowWidth = 0;
+                rowHeight = 0;
+                row = [];
+                rowAspectRatio = 0;
+                totalRow += 1;
+                if (totalRow == 10 || i == data.length - 1) {
+                    totalRow = 0;
+                    imageIndexPerPage.push(i);
+                }
+            }
+        }
+        totalPage = imageIndexPerPage.length - 1;
+    } else {
+        for (var i = 0; i < data.length; i+=totalImagePerPageOnMobile) {
+            if ((i % totalImagePerPageOnMobile === 0 && i !== 0) || i == data.length - 1 ) {
+                imageIndexPerPage.push(i);
+            }
+        }
+        totalPage = Math.ceil(data.length / totalImagePerPageOnMobile);
+    }
+}
+
 function setImageStyle() {
     var rowAspectRatio = 0;
     var row = []
-    var limitAspectRatio = 4;
-    var wrapperWidth = document.getElementById('gallery-wrapper').getBoundingClientRect().width;
-    var imageSpace = 10;
 
     if (window.screen.width > 600) {
         for (var i = 0; i < photos.length; i++) {
@@ -178,7 +223,7 @@ function selectPage(page) {
         if (i == page - 1) pageButton[i].classList.add('active')
     }
 
-    photos = data.slice((page - 1) * totalImagePerPage, ((page - 1) * totalImagePerPage) + totalImagePerPage);
+    photos = data.slice(imageIndexPerPage[page-1], imageIndexPerPage[page]);
     var wrapper = document.getElementById('gallery-wrapper');
     wrapper.innerHTML = ''
     for (var i = 0; i < photos.length; i++) {
