@@ -14,6 +14,7 @@ var imageSpace = 10;
 var wrapperWidth = document.getElementById('gallery-wrapper').getBoundingClientRect().width;
 
 window.addEventListener('resize', function () {
+    wrapperWidth = document.getElementById('gallery-wrapper').getBoundingClientRect().width;
     sliceDataArray();
     setPagination();
     setImageStyle(data);
@@ -131,6 +132,7 @@ function sliceDataArray() {
 }
 
 function setImageStyle() {
+    console.log('set image style')
     var rowAspectRatio = 0;
     var row = []
 
@@ -147,6 +149,7 @@ function setImageStyle() {
 
                 rowWidth = wrapperWidth - (row.length - 1) * imageSpace;
                 rowHeight = rowWidth / rowAspectRatio;
+                console.log(rowWidth, rowHeight);
             }
 
             if (row.length != 0 && rowWidth != 0 && rowHeight != 0) {
