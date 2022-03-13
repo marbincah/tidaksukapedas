@@ -132,7 +132,6 @@ function sliceDataArray() {
 }
 
 function setImageStyle() {
-    console.log('set image style')
     var rowAspectRatio = 0;
     var row = []
 
