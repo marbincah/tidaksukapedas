@@ -1,929 +1,78 @@
 {
     "photos": [{
-            "fileName": "20201209_201151.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1-bZU0wjxeseGi0Y-OFfO-J38LzOghTbC",
-            "ratio": 1.333333333,
-            "date": "2020:12:09 20:11:51",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200126_192757_001.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1054ReA3HQXqw3chrTKMkA9AS1zKeisBa",
+            "fileName": "EPWu88CU0AAxRxE.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1S6svvONnSPxVFWsOmD2da2NkSBHVDsRN",
             "ratio": 1.777777778,
-            "date": "2020:01:26 19:27:57",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210613_070226.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=10CnTO8kfwHM-QNj0lJxVQeg9bMInpB_p",
-            "ratio": 1.333333333,
-            "date": "2021:06:13 07:02:26",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "D7iE7xNUcAAphz9.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=11wb-TsYbCjnI1JBirwSL0-N3CHB_XeD4",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20211003_111858.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=11zPuQo2gfjhT692jnE2UplB8SOVeh9lJ",
-            "ratio": 1.333333333,
-            "date": "2021:10:03 11:18:57",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220207_190441.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=12jduQJQOIMuavQZIAd3kAlE5rgGQ0jWJ",
-            "ratio": 2.222222222,
-            "date": "2022:02:07 19:04:41",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20211224_114210.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=12rYoIQm36aOrauXrd7kre4iQdBBN9weu",
-            "ratio": 1.333333333,
-            "date": "2021:12:24 11:42:09",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200127_191417.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=13TJMdQ9fjNboKgo-iTu7OGHKZ9mPSCTO",
-            "ratio": 1.777777778,
-            "date": "2020:01:27 19:14:17",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210606_181809.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=13c80N-QR6vN5x0Z8MNlIbpkOXzXMGQwZ",
-            "ratio": 1.333333333,
-            "date": "2021:06:06 18:18:08",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220211_174659.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=13mUnoIe211WV351_FdjlmsMXvIQFxxJG",
-            "ratio": 2.222222222,
-            "date": "2022:02:11 17:46:59",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20201108_193503.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=16E-EmMAuTNomIU94SGyikhMjJ7f5Re4j",
-            "ratio": 1.333333333,
-            "date": "2020:11:08 19:35:03",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220212_060523.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=16eTY5g2wQ3eReADenWO7JGvXZ85-nrqC",
-            "ratio": 2.222222222,
-            "date": "2022:02:12 06:05:23",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "Dq1lr9YV4AA8c61.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=17GvvgnYhuumgUPKU4l_G4ikbPKTM4lLA",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220207_184209.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=17Scp36-IQJIMpZkWTZb-Kg1vl1NGxCko",
-            "ratio": 2.222222222,
-            "date": "2022:02:07 18:42:09",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210129_201522.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=18Ph0aBiEhoXYbTRE3CJapeRhh8EmlJao",
-            "ratio": 1.333333333,
-            "date": "2021:01:29 20:15:22",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210408_124759.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=18n4dq7gpO6hgeb076LoiOYKmydp3homM",
-            "ratio": 1,
-            "date": "2021:04:08 12:47:59",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "A139A338-0DD5-4669-A1E9-C2B12A092CB8.jpeg",
-            "url": "http://drive.google.com/uc?export=view&id=19_0LjTKiWoa9JJRBWhapeBTCgjvZJVaf",
-            "ratio": 1,
-            "date": "2021:05:14 18:42:03",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20190520_114506_006.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1AhZIyrIGTJz1BlpSuVJDR9rarPiB-Xsu",
-            "ratio": 1.777777778,
-            "date": "2019:05:20 11:45:07",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DqqutS1VAAAnQ_o.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1BYSmXATLC6T-Mib6sTAid60W9JF1OK3k",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210129_201316.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1C3Dlt1R_uUfMIXy6-oHjKiiDPRJaXWLG",
-            "ratio": 1.333333333,
-            "date": "2021:01:29 20:13:16",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210205_200315.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1D2PS-sZv5NCOTbig74weVK61wrlgnx-i",
-            "ratio": 1.333333333,
-            "date": "2021:02:05 20:03:15",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "Dql8X4IW4AIX0Vc.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1EdIXtz_kuh4CHSoa4aESW2d-trH7E-3A",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DtgL-QvVYAEiLRN.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1EndgwAQQD5s2WsiyzHVZAzwSzRRsYKuX",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210331_075213.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1FJ_wKSfXI5qvbUyOKf9mvEans20S4kEZ",
-            "ratio": 1.333333333,
-            "date": "2021:03:31 07:52:13",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "Dvl4MnFUwAIeEcX.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1FaN8sdEcrR2tw7Z_9TkXGZZ2cmWxcF25",
-            "ratio": 1.002087683,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210129_201236.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1GK2ey0IK7SSnKrzamWqxAGHXp-5FOecV",
-            "ratio": 1.333333333,
-            "date": "2021:01:29 20:12:36",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210613_143447.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1HRJpiZIVni_jX9KrqahDtaLZY8gTMoZz",
-            "ratio": 1.333333333,
-            "date": "2021:06:13 14:34:47",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20211003_111946.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1HYvZXAaMFHlYYyZthl3cDxwdMNcBTqF6",
-            "ratio": 1.333333333,
-            "date": "2021:10:03 11:19:46",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DraLrV-V4AAhnry.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1I-KMse1bzkVLguMfgEM3gy-Vnj89U0E2",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210129_201329.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1Iid33HnyX1DwxGZ1OMg58NOZPz0KeSkW",
-            "ratio": 1.333333333,
-            "date": "2021:01:29 20:13:29",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DxpOM0qVsAENqD0.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1KbTtooeC-hzJcvWIs3YnBMYdpoMBz2Ib",
-            "ratio": 1.714285714,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20201108_193454.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1MJL4IGHnfSP6ivzLTBg_j0zdTg__J_ES",
-            "ratio": 1.333333333,
-            "date": "2020:11:08 19:34:54",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210604_194542.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1MV7ZIRNmfTAA20e2lLuriKU-btbuWbxf",
-            "ratio": 1.333333333,
-            "date": "2021:06:04 19:45:41",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210604_194553.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1Mvh-eWk93Z3jvXxEPgWIlBuR3XWfzdic",
-            "ratio": 1.333333333,
-            "date": "2021:06:04 19:45:53",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "Dq10UsaU0AA7WTN.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1O3sWlGWampI82mhn_5pCIsC6_0nJy32O",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20201115_140807.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1OCdXN9KPNgCZGllmW5ykHGV7IJkggUGh",
-            "ratio": 1.333333333,
-            "date": "2020:11:15 14:08:07",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20201206_154905.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1OewBwIMjKsqqBog1_pog0a1TY71QsDu4",
-            "ratio": 1.333333333,
-            "date": "2020:12:06 15:49:05",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220226_194947.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1PHlcETjEwQRxmVK17O9KVW3ZGAsIuGVE",
-            "ratio": 2.222222222,
-            "date": "2022:02:26 19:49:47",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220228_200030.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1Peq2FDrgITzqUHUcoilZxiwchqpcFofj",
-            "ratio": 2.222222222,
-            "date": "2022:02:28 20:00:30",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210606_181829.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1QYziAojTT6FVAgl917EhPLC8UfD9pS3q",
-            "ratio": 1.333333333,
-            "date": "2021:06:06 18:18:29",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DqquQy6V4AAD87q.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1RJXnIcA9mf3OpJC1GzUeCg_-RDymR5WE",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200124_150639.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1RZFZMf2yEwM572eQj00OSWOsh1Naip5d",
-            "ratio": 1.777777778,
-            "date": "2020:01:24 15:06:39",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200223_190553.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1S6BN6ihK1kMZTNJM_PqyqQkCwe4h9Vao",
-            "ratio": 1.777777778,
-            "date": "2020:02:23 19:05:53",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210111_202350.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1SKC16TBJaeN-zzBpYUARf-qbnR1Aixvf",
-            "ratio": 1.333333333,
-            "date": "2021:01:11 20:23:49",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210129_201251.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1SROr6rr7wzNJuw-Eu7owpRnXPmdq-hDt",
-            "ratio": 1.333333333,
-            "date": "2021:01:29 20:12:51",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DxrjA0XV4AEvbqs.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1SZ5IO5mDnRFOJgaTrJbdv3pFikdnFtF-",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DsVcIQaVAAEN0Ew.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1SzvtY_h2KrgPMlwbxjKNVYsvr2maVLBo",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "Dql9olRX4AYJmbB.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1UqVQhZu3QZJGist274Avsj8Iyz6g6bFy",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "ELlaYXkUcAAxs3T.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1VTGI-8dK1wv7vqRASy8T_OQQf0jaUj1t",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220210_132607.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1Xjgy-TPrTkh8HvBAPA4D7LdoqgY1-9Re",
-            "ratio": 2.222222222,
-            "date": "2022:02:10 13:26:07",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220206_081826.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1XqZ7-EIldPZ7uM13SJSQWrhG-TYEpvvv",
-            "ratio": 2.222222222,
-            "date": "2022:02:06 08:18:26",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210111_194448.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1XrRltXhu0ofNos2b9cIMjXphfoUvA-A4",
-            "ratio": 1.333333333,
-            "date": "2021:01:11 19:44:48",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210311_181546.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1YThzL0RaQMO2Zdh-pzgz12htSkR8m6ka",
-            "ratio": 1.333333333,
-            "date": "2021:03:11 18:15:46",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "EAe9fioUEAEZlI7.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1Yf-SN-IKS42_7syl9_0ryi5f2RmqXmJk",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DqvivWKU4AAvu_W.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1ZyjDvVmfInDGEy4wIVCz1DI_1qMeHEz0",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20211121_182302.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1_Z5yXj2fxB419wOqPymbTCBiV72QLMxL",
-            "ratio": 1.333333333,
-            "date": "2021:11:21 18:23:02",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20201029_200245.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1asu8y76T6EV1v7Ojut_WKmxe7oblrGQz",
-            "ratio": 1.333333333,
-            "date": "2020:10:29 20:02:45",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DqvjbW-U0AA0Yi4.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1b9eH3rE3xdegmvXNHTlqShFmNIaNSzEe",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20211121_102343.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1dCvW1C-Y-X0-X9tza8WptSl0_KrR5sMw",
-            "ratio": 1.333333333,
-            "date": "2021:11:21 10:23:42",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210613_142509.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1dJsipdp34vRYHxhGuNseEY9Pek_1z3kn",
-            "ratio": 1.333333333,
-            "date": "2021:06:13 14:25:09",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DyZGYrLUUAEfbJH.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1etdg0DSUzHYjm-zsQAAogFMDF9pGr7lV",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220130_114452.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1fA8Xw7BAHFi5Yu0l5qDpK9m0xlgYtK4r",
-            "ratio": 2.222222222,
-            "date": "2022:01:30 11:44:53",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200126_201111.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1fE2PD-IdNGoSEihpGHvbXdehXPLvtf5t",
-            "ratio": 1.777777778,
-            "date": "2020:01:26 20:11:10",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "Dqvj7oLV4AEQuF8.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1gX1hMM3maI_m1J9Z0y8EtaRAoksYIrbs",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
         },
         {
             "fileName": "ENdoWoCU4AA3ubY.jpeg.jpg",
             "url": "http://drive.google.com/uc?export=view&id=1guyHGW1Zul1KRQ9utg4SSsHBJPOfNxa0",
             "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
+            "location": "Chinatown Complex Food Centre, Singapore",
+            "locationUrl": "https://goo.gl/maps/ELmJjeeUnrFDmtNR6"
         },
         {
-            "fileName": "20220115_201403.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1h0wI-PFWJwPxgARpASdpS5d796fvdiuB",
-            "ratio": 2.222222222,
-            "date": "2022:01:15 20:14:02",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DrJuezEVAAA8xN3.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1i9XQBpcL4TppCatk9HYGJo3GPH6DQ0T8",
+            "fileName": "ELlaYXkUcAAxs3T.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1VTGI-8dK1wv7vqRASy8T_OQQf0jaUj1t",
             "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
+            "location": "Chinatown Complex Food Centre, Singapore",
+            "locationUrl": "https://goo.gl/maps/ELmJjeeUnrFDmtNR6"
         },
         {
-            "fileName": "20220211_095555.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1iCXbXXBTOZMoPl4PALpyyh62aoHAMQnf",
-            "ratio": 2.222222222,
-            "date": "2022:02:11 09:55:55",
-            "location": "",
-            "locationUrl": ""
+            "fileName": "EhYNGZJU8AELZRi.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1cFFnhJcvxJT4OcVgGogeEj3iRbPSzeWf",
+            "ratio": 0.75,
+            "location": "Meat House, Batam",
+            "locationUrl": "https://goo.gl/maps/N8ckhLgVFzXRX7Uq5"
         },
         {
-            "fileName": "20200719_201123.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1kAVKcDXS_JXe_14AcLzRJ6Ij8wU15Nag",
-            "ratio": 1.333333333,
-            "date": "2020:07:19 20:11:21",
-            "location": "",
-            "locationUrl": ""
+            "fileName": "EglgWI0U0AA383g.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1C_sl6KcXjWaTQtmFsE2yzuOXr-F0oXne",
+            "ratio": 0.75,
+            "location": "Arirang Restaurant, Batam",
+            "locationUrl": "https://goo.gl/maps/eznUWtnictNNqieeA"
         },
         {
-            "fileName": "DrZYA6ZU4AAp_nb.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1kSXT0BgiDmgGDlQVJDVI9JkMBwlI1h68",
+            "fileName": "DyZGYrLUUAEfbJH.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1etdg0DSUzHYjm-zsQAAogFMDF9pGr7lV",
+            "ratio": 1.777777778,
+            "location": "Gelato Bar & Resto, Jakarta",
+            "locationUrl": "https://goo.gl/maps/kKGeUQ3SX9LDhVd26"
+        },
+        {
+            "fileName": "DxrjA0XV4AEvbqs.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1SZ5IO5mDnRFOJgaTrJbdv3pFikdnFtF-",
+            "ratio": 1.777777778,
+            "location": "Ikkudo Ichi, Jakarta",
+            "locationUrl": "https://goo.gl/maps/GiCrZjQvdiXwqYt87"
+        },
+        {
+            "fileName": "DxpOM0qVsAENqD0.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1KbTtooeC-hzJcvWIs3YnBMYdpoMBz2Ib",
+            "ratio": 1.714285714,
+            "location": "Popolamama, Jakarta",
+            "locationUrl": "https://goo.gl/maps/eyrxCUieFQQTN9un8"
+        },
+        {
+            "fileName": "DxpNs6UU8AAWaIB.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1lVyuCAeEda0NV723lVYRen9R-XPOEd0Z",
+            "ratio": 1.481481481,
+            "location": "Popolamama, Jakarta",
+            "locationUrl": "https://goo.gl/maps/eyrxCUieFQQTN9un8"
+        },
+        {
+            "fileName": "Dvl4MnFUwAIeEcX.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1FaN8sdEcrR2tw7Z_9TkXGZZ2cmWxcF25",
             "ratio": 1.002087683,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20211107_201129.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1lIUZOIqM3zYvEQ-WF9Rp0mLbrb2LJrqM",
-            "ratio": 1.333333333,
-            "date": "2021:11:07 20:11:28",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210616_190834.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1n3NAn-hzVamk8UXGI6LtYVq3UNvZtOyS",
-            "ratio": 1.333333333,
-            "date": "2021:06:16 19:08:34",
-            "location": "",
-            "locationUrl": ""
+            "location": "Warung Nasi Talago Biru, Bandung",
+            "locationUrl": "https://goo.gl/maps/teS2hcaXrfZp8Pv88"
         },
         {
             "fileName": "DuTm-JqVsAA0h-T.jpeg.jpg",
             "url": "http://drive.google.com/uc?export=view&id=1nF7QXU9-QAqXEcp3xu_cJ8ldtPNSFGow",
             "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220212_180651.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1nXABfceddd4JFYD5C8e3OreTcDvSEMYb",
-            "ratio": 2.222222222,
-            "date": "2022:02:12 18:06:51",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "016BA3F3-4566-4BBA-96B7-6C57196E288C.jpeg",
-            "url": "http://drive.google.com/uc?export=view&id=1oE7fjYncC4Qo0GTxW0k8uuv-QtPQGIXz",
-            "ratio": 1,
-            "date": "2021:05:14 18:42:04",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DrJuOmnVYAEIwQV.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1oqYW5jL5bFwYknZAa-r541PbVzLy9ygS",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210606_181816.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1pLjY-gjjUb8AAxem0ExzNWwQFsnfWUl4",
-            "ratio": 1.333333333,
-            "date": "2021:06:06 18:18:16",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210529_202509.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1pNhgRaqV9psVeU4r4qk_7qAwaXqNOLKi",
-            "ratio": 1.333333333,
-            "date": "2021:05:29 20:25:09",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220131_203645.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1pWFfmKKOgaRbLErHbfkAqqjMxmFNp4NJ",
-            "ratio": 2.222222222,
-            "date": "2022:01:31 20:36:45",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DsR0dcfVsAECnIr.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1q7hvKBgsRkujZxeW_WyuY0CH5jnvWeNn",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20201108_193510.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1qcR7QtbJw7fTmiSskKLhGEyYnjDgWASc",
-            "ratio": 1.333333333,
-            "date": "2020:11:08 19:35:10",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210530_095002.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1qxetigvMTRibSeFgMqVznq2MnRZNw6Mp",
-            "ratio": 1.333333333,
-            "date": "2021:05:30 09:50:02",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210111_194511.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1rVdgTNUBCs_MgYQq-bR4uG_RB2Fe7fMk",
-            "ratio": 1.333333333,
-            "date": "2021:01:11 19:45:11",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DqvkFl0UUAAq4dH.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1ri3hYnukE8ZmQ2hQ_W0UcuvTRtsQ3W6k",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200124_205406.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1sbQuigvZGMXhqzfX_l8B6nhHb9hXTlAV",
-            "ratio": 1.777777778,
-            "date": "2020:01:24 20:54:06",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "Dq1znVJVAAED-KN.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1sfqhY3RuUoydDgkxHM83uq5YJy-rwhJx",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210606_181744.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1uafqgzpF7zoIaKzznhNM2o29BEW7AQNT",
-            "ratio": 1.333333333,
-            "date": "2021:06:06 18:17:44",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "Dq60bXzUcAAj_eW.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1ueAClh4gPdpk4oc0QoAmrXGQwzeHG67J",
-            "ratio": 1.383285303,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200126_192807_001.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1vpiOk0_I2D9TcEY-3J9woc-7E5sCWt5-",
-            "ratio": 1.777777778,
-            "date": "2020:01:26 19:28:07",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210318_063549.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1wM4TlVLgUMZKqdpEO2gmUUZBrOzRRn1v",
-            "ratio": 1.333333333,
-            "date": "2021:03:18 06:35:49",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "Dq11l8GVYAE4xw2.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1wMM3VXj6gdgoJS8QeOuxwn76WDj3YxiK",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200126_193153.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1wPdyV0Klgw9J-i9eH_uYAE4m3yUhTFhB",
-            "ratio": 1.777777778,
-            "date": "2020:01:26 19:31:53",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "7115F633-E5C2-413E-85FA-A91AAF23BCCF.jpeg",
-            "url": "http://drive.google.com/uc?export=view&id=1xHsvKpWyfOXoCzPG9ZzcabEFhZrr13rq",
-            "ratio": 1,
-            "date": "2021:05:14 18:42:03",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220220_194215.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1xbsc1g79pz1LP10o4XqKfOZzG25AmPlf",
-            "ratio": 2.222222222,
-            "date": "2022:02:20 19:42:15",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220225_200911.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1xqVBewV16f2TXc1YIV4Fdv8nvpM1wWY5",
-            "ratio": 2.222222222,
-            "date": "2022:02:25 20:09:11",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20211226_115845.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1xtl2H5-2iv_IhM58TTFyJHIWsCT-_f2i",
-            "ratio": 1.333333333,
-            "date": "2021:12:26 11:58:44",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DSC00768.JPG",
-            "url": "http://drive.google.com/uc?export=view&id=1z-HxLPQqStPDvXKE1vPtW7KF9PRllGjN",
-            "ratio": 1.784386617,
-            "date": "2016:12:25 00:57:53",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210111_194549.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1z0WPOHNDbsGEkxDEcSSrARBRHaJbHSX7",
-            "ratio": 1.333333333,
-            "date": "2021:01:11 19:45:49",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DqvjrxSVsAUhx4E.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1zMzwTN5Zq6AAOYVan-UWo4QDFr9CpKEx",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220212_180656.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1zfD2OnHGMwnHtSC8u3WD9x6gktgeo5p-",
-            "ratio": 2.222222222,
-            "date": "2022:02:12 18:06:56",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220212_124509.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1-A2PTp1jf1Ch_T6ZA8tSdKbY4RNLRLf9",
-            "ratio": 2.222222222,
-            "date": "2022:02:12 12:45:10",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DrKC0RrVAAYi4Q9.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1-ArGTYreXfMBE398kegkmqpUNTfg3bf-",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210321_071406.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=10Qw2xWDw82m8q3zpmQxucDQZp02Spx1O",
-            "ratio": 1.333333333,
-            "date": "2021:03:21 07:14:06",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20211003_111910.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=10sxkK4MEczWj1WW1ku99ZtYG_spbrd1b",
-            "ratio": 1.333333333,
-            "date": "2021:10:03 11:19:09",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200124_205430.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=114gnQHKXVl8okOPdoT90rgeExZ-S69ow",
-            "ratio": 1.777777778,
-            "date": "2020:01:24 20:54:30",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "IMG_0118.jpeg",
-            "url": "http://drive.google.com/uc?export=view&id=14YoCr5_xH6lz7dh856br3b3O27X0zOEb",
-            "ratio": 1.333333333,
-            "date": "2021:05:14 11:38:20",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20201120_204219.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=15NCRQ-GkR9YPVs5ovuRXvqJMP-8J6sJU",
-            "ratio": 1.333333333,
-            "date": "2020:11:20 20:42:19",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "Dql8zIdXcAAaTJF.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=15_Ygj0l6lO5M9OStvCon-llx82mkipze",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "Dq1lDvlU8AAxaLt.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=16Wzwxz3cv9TCHNuPKqW9laZ5QDnR6YuA",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DtanaeXUwAAtbPy.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=16rmaxzK1Vcoee94oB6z8sTZHP3UOw9E-",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200126_192647.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=18JycdxuozgkSjDQg6-R8hkPEeTWxl1Fo",
-            "ratio": 1.777777778,
-            "date": "2020:01:26 19:26:47",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20201121_194948.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=18KCf7ru4OrhdH2wa6UV3gWvzJ4RDr8yp",
-            "ratio": 1.333333333,
-            "date": "2020:11:21 19:49:48",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "Dql-IZwW4AAqKZ4.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=196vnUfYTc0ZKjaxbfd_0H-f-hsOm1DWn",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DrXQJ0_UwAE8zms.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=19k-kqShbvbebBFVbWCkLVuC6cRlw_cig",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20201108_193449.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1A07UVSpjC33vFwMyox0GboefaklFeT-r",
-            "ratio": 1.333333333,
-            "date": "2020:11:08 19:34:49",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200520_194429_001.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1AqFdqBCUx5hNdCOqvog8-eYymmuijREI",
-            "ratio": 1.777777778,
-            "date": "2020:05:20 19:44:29",
             "location": "",
             "locationUrl": ""
         },
@@ -931,415 +80,55 @@
             "fileName": "Du8ntjeU0AAG-Kd.jpeg.jpg",
             "url": "http://drive.google.com/uc?export=view&id=1DCnF5iP1S4VKhwIHlsnjelY0UnHK8gUn",
             "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210416_195956.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1DUjpMpxBFm-8xQ_A5HrTD6_ST0QXtxNN",
-            "ratio": 1.333333333,
-            "date": "2021:04:16 19:59:56",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DqquddFU8AA2dZq.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1E2ckG5TAgaGbR0uxXehvr3sXVGll8F2I",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210205_200328.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1EJYF0nsFFeEuyB-EHt3DAZb2yTV8dXUX",
-            "ratio": 1.333333333,
-            "date": "2021:02:05 20:03:28",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210306_072229.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1ER7RNig8A8giAXNtd-6fGZFEzw_htPTE",
-            "ratio": 1.333333333,
-            "date": "2021:03:06 07:22:29",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210416_200301.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1FFCuQgVWM_WEjaoWr4lDMqhcnPvbJoA-",
-            "ratio": 1.333333333,
-            "date": "2021:04:16 20:03:01",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200813_184309.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1H0-wIxu7W5qNRnODrAGDwHD1m21XkNDl",
-            "ratio": 1.333333333,
-            "date": "2020:08:13 18:43:06",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220207_184303.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1ICDsapT8CCzxNs8GBTUe47lUTmsE_zb1",
-            "ratio": 2.222222222,
-            "date": "2022:02:07 18:43:04",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210111_194551.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1J4SCMuHq43ZYtqST-eZoax1PkIlECn1Z",
-            "ratio": 1.333333333,
-            "date": "2021:01:11 19:45:51",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210416_200020.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1JzdTn1yU4VUv8Mxoemdd9wRr4SaOJGSA",
-            "ratio": 1.333333333,
-            "date": "2021:04:16 20:00:20",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220206_185525.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1Kzr06vQOd10R4yLFU4U0hVpwZrJaeHyG",
-            "ratio": 2.222222222,
-            "date": "2022:02:06 18:55:25",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200906_141513.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1MWHbKPS0Zgb74mqQchcLFgy75H3eESOs",
-            "ratio": 1.333333333,
-            "date": "2020:09:06 14:15:11",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210416_200051.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1NPQU3Ulasc6niX27NAbO5Jz1ycXniVNj",
-            "ratio": 1.333333333,
-            "date": "2021:04:16 20:00:51",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220211_143350.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1Nh5Zq95rfvx-33dRpsxwhau3eqxw6eWM",
-            "ratio": 2.222222222,
-            "date": "2022:02:11 14:33:51",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210619_200129.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1Nk_8MwAYMKtsr8QuM9r7HoPHXzQo-mPN",
-            "ratio": 1.333333333,
-            "date": "2021:06:19 20:01:29",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "IMG_0181.jpeg",
-            "url": "http://drive.google.com/uc?export=view&id=1Oy5zEkeo8LMPKhD64rasZh5mFolxhBeM",
-            "ratio": 1.333333333,
-            "date": "2022:01:22 12:50:00",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210416_200013.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1PHDcAbbk4_N5An5l_BW3eD54WSSBG8mo",
-            "ratio": 1.333333333,
-            "date": "2021:04:16 20:00:13",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200111_200304.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1QfQhXkd2bE2ctQbTt6IvadhfWb7GZrBo",
-            "ratio": 1.777777778,
-            "date": "2020:01:11 20:03:04",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200607_165459.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1RnM7Gx-lT1LDbH4kE6sBzCnzZAWzueeD",
-            "ratio": 1.777777778,
-            "date": "2020:06:07 16:54:59",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "EPWu88CU0AAxRxE.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1S6svvONnSPxVFWsOmD2da2NkSBHVDsRN",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20201206_153601.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1SNmi3hPVtFwfdTzlxm3n0FFhbthuCA_W",
-            "ratio": 1.333333333,
-            "date": "2020:12:06 15:36:01",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DqqteWxVsAIinuA.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1VbT68NDheGGiVwXPDnWypgtAonDKAQR5",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20190807_211326.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1YNtI6UH_GOQOk9ULO467swp4ovfdt5Nn",
-            "ratio": 1.777777778,
-            "date": "2019:08:07 21:13:26",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20190727_104200_001.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1ZWwNJePbYeb2qy7UgJulmk3zX8vVMv2x",
-            "ratio": 1.777777778,
-            "date": "2019:07:27 10:42:00",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DrU_Pm-UcAAbNRm.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1_riuJJEWvmWQEPmbLsbcNWK2LpQ0ARtt",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210416_200004.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1aNqmV7m8Xl1Il-NecnN7ZexEKuUgb8K6",
-            "ratio": 1.333333333,
-            "date": "2021:04:16 20:00:04",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DSC00783.JPG",
-            "url": "http://drive.google.com/uc?export=view&id=1cbFtewAMBpDJP7qK6upKfNVrI-B7faTu",
-            "ratio": 1.784386617,
-            "date": "2016:12:25 01:16:47",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220131_203652.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1dMKvRh7ZtZtN59eZmGMn5siCgxHSViLo",
-            "ratio": 2.222222222,
-            "date": "2022:01:31 20:36:53",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "C8D76D31-2561-4AF8-963C-79E460D6A7CD.jpeg",
-            "url": "http://drive.google.com/uc?export=view&id=1ffmeOnU--EMSzNdctj-c-VCBJIcIJ421",
-            "ratio": 1,
-            "date": "2021:05:14 18:42:03",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200106_194106.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1gbkk-IR6R6kneOf_enOs-kSk5B-5PvLQ",
-            "ratio": 1.777777778,
-            "date": "2020:01:06 19:41:06",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20190807_210941.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1j7okzCOIpCDpX2hEs7tHKX2mMTZZ_zr2",
-            "ratio": 1.777777778,
-            "date": "2019:08:07 21:09:41",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210416_200028.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1jBYYAfYRMusaqoFx8iGerOnV62tMg6l9",
-            "ratio": 1.333333333,
-            "date": "2021:04:16 20:00:28",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210123_064234.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1lLLAa3Z-dfzGROUlogThVvVlRTtiJ5us",
-            "ratio": 1.333333333,
-            "date": "2021:01:23 06:42:34",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DxpNs6UU8AAWaIB.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1lVyuCAeEda0NV723lVYRen9R-XPOEd0Z",
-            "ratio": 1.481481481,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220211_174245.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1liZR1Mh59APm4Y6ZEUjTEf96xpLkURb5",
-            "ratio": 2.222222222,
-            "date": "2022:02:11 17:42:46",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200619_195138.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1mpHNOydGzfF1t1lk3jmVSiKpxR4d9Yyh",
-            "ratio": 1.777777778,
-            "date": "2020:06:19 19:51:38",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220208_184943.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1oWmDQ2R5VqD15DBnFjBUS9u05qeBz8Py",
-            "ratio": 2.222222222,
-            "date": "2022:02:08 18:49:43",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "IMG_5094.jpeg",
-            "url": "http://drive.google.com/uc?export=view&id=1rttNj55P5DxHcPBzk5-FtU2btvlJQOUQ",
-            "ratio": 1,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "DrO6Xn2VAAAySJ4.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1s9-T0ZteWdzFUNUI_UOWwODQ5xHC2cXn",
-            "ratio": 1.777777778,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210606_181800.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1ssQTI8Ixeh23Fm6eyGw4WFeQawtDdcb9",
-            "ratio": 1.333333333,
-            "date": "2021:06:06 18:18:00",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20220201_131029.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1tptfafeqNzMwMhiApCdMS8Q1D8YPgVbT",
-            "ratio": 2.222222222,
-            "date": "2022:02:01 13:10:29",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210313_202436.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1u5ebk0V6FvJ8LY45DsVZ2gw9aaRra-R2",
-            "ratio": 1.333333333,
-            "date": "2021:03:13 20:24:36",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200619_194255.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1vHosq4QMfDCX1eWzxrFIAqln1QQoqn4k",
-            "ratio": 1.777777778,
-            "date": "2020:06:19 19:42:55",
-            "location": "",
-            "locationUrl": ""
+            "location": "Kobe Tepanyaki, Bandung",
+            "locationUrl": "https://goo.gl/maps/JkfcnU4hWm5m14Cg9"
         },
         {
             "fileName": "DtizoY9VsAAUto9.jpeg.jpg",
             "url": "http://drive.google.com/uc?export=view&id=1wqF0f2GoN6lxBzfWXZ_I1kRZM3fxtzfq",
             "ratio": 1.912350598,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
+            "location": "Carl's Jr., Jakarta",
+            "locationUrl": "https://goo.gl/maps/vMecL64hNp378Tgx6"
         },
         {
-            "fileName": "20200106_194250.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1xTdwPgw7TJDn25oHROZqvhvwlr2JWGLE",
+            "fileName": "DtgL-QvVYAEiLRN.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1EndgwAQQD5s2WsiyzHVZAzwSzRRsYKuX",
             "ratio": 1.777777778,
-            "date": "2020:01:06 19:42:50",
-            "location": "",
-            "locationUrl": ""
+            "location": "Golden Lamian, Jakarta",
+            "locationUrl": "https://goo.gl/maps/VLDpm8uBBdspdBiB6"
         },
         {
-            "fileName": "20210205_200154.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1yPRdT-WOh67kgsJHNveW7cEfYnS7i9yD",
-            "ratio": 1.333333333,
-            "date": "2021:02:05 20:01:54",
-            "location": "",
-            "locationUrl": ""
+            "fileName": "DtanaeXUwAAtbPy.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=16rmaxzK1Vcoee94oB6z8sTZHP3UOw9E-",
+            "ratio": 1.777777778,
+            "location": "Steak Hotel by Holycow!, Jakarta",
+            "locationUrl": "https://goo.gl/maps/sS34XEcsC12xQjiu9"
         },
         {
-            "fileName": "Dq60r5MU4AALSTt.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=10iV10wB5kQYDnQ736pPfFA3Y1GaZWhOG",
-            "ratio": 0.9333333333,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
+            "fileName": "DsVcIQaVAAEN0Ew.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1SzvtY_h2KrgPMlwbxjKNVYsvr2maVLBo",
+            "ratio": 1.777777778,
+            "location": "Rumah Makan Padang - Malah Dicubo, Bandung",
+            "locationUrl": "https://goo.gl/maps/ouCZmqMh86bkEJKd8"
         },
         {
-            "fileName": "D7iE6yfVsAAquC0.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=17EyafJVeW5ams7TW8D1L-tX2zf1VoOuS",
+            "fileName": "DsSemWAV4AASHjJ.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1W6qcz57lUrM1DBNfPff2yy-3nyAzVw5v",
             "ratio": 0.5625,
-            "date": "",
             "location": "",
             "locationUrl": ""
         },
         {
-            "fileName": "Egv7MbYU4AEPmWr.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=198la_9laFGd77cEwVKCsp-Sr-IxQNyJj",
-            "ratio": 0.75,
-            "date": "",
+            "fileName": "DsR0dcfVsAECnIr.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1q7hvKBgsRkujZxeW_WyuY0CH5jnvWeNn",
+            "ratio": 1.777777778,
             "location": "",
             "locationUrl": ""
         },
         {
-            "fileName": "EglgWI0U0AA383g.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1C_sl6KcXjWaTQtmFsE2yzuOXr-F0oXne",
-            "ratio": 0.75,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "Dq60MozVYAAIrRU.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1F9FVnPzgxeeULE9zPFG1N8wlxqY_R31t",
-            "ratio": 0.775,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "E24kn7RVIAMX7n6.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1Qw8QuPM-DEOmS9XOiyrgsAQpau-i48cu",
-            "ratio": 0.75,
-            "date": "",
+            "fileName": "DrZYA6ZU4AAp_nb.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1kSXT0BgiDmgGDlQVJDVI9JkMBwlI1h68",
+            "ratio": 1.002087683,
             "location": "",
             "locationUrl": ""
         },
@@ -1347,150 +136,608 @@
             "fileName": "DrYWGrUU4AAmgtQ.jpeg.jpg",
             "url": "http://drive.google.com/uc?export=view&id=1SNvINpeyf2jRDCM04-RTDEjMIuxfCjfk",
             "ratio": 0.5625,
-            "date": "",
+            "location": "Kantin Geologi ITB, Bandung",
+            "locationUrl": "https://goo.gl/maps/pVm8X2G84Jef25YT9"
+        },
+        {
+            "fileName": "DrXQJ0_UwAE8zms.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=19k-kqShbvbebBFVbWCkLVuC6cRlw_cig",
+            "ratio": 1.777777778,
+            "location": "Sari Sari - Aneka Kue Jajan Pasar, Bandung",
+            "locationUrl": "https://goo.gl/maps/evqyEanZMMfWPoH56"
+        },
+        {
+            "fileName": "DrU_Pm-UcAAbNRm.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1_riuJJEWvmWQEPmbLsbcNWK2LpQ0ARtt",
+            "ratio": 1.777777778,
+            "location": "Carl's Jr., Jakarta",
+            "locationUrl": "https://goo.gl/maps/vMecL64hNp378Tgx6"
+        },
+        {
+            "fileName": "DrO6Xn2VAAAySJ4.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1s9-T0ZteWdzFUNUI_UOWwODQ5xHC2cXn",
+            "ratio": 1.777777778,
+            "location": "BPK Lima Serangkai, Bandung",
+            "locationUrl": "https://goo.gl/maps/8yMLPnFJdsfzRqbH8"
+        },
+        {
+            "fileName": "DrKC0RrVAAYi4Q9.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1-ArGTYreXfMBE398kegkmqpUNTfg3bf-",
+            "ratio": 1.777777778,
             "location": "",
             "locationUrl": ""
         },
         {
-            "fileName": "DsSemWAV4AASHjJ.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1W6qcz57lUrM1DBNfPff2yy-3nyAzVw5v",
-            "ratio": 0.5625,
-            "date": "",
+            "fileName": "DrJuOmnVYAEIwQV.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1oqYW5jL5bFwYknZAa-r541PbVzLy9ygS",
+            "ratio": 1.777777778,
+            "location": "Bamboo Dimsum, Bandung",
+            "locationUrl": "https://goo.gl/maps/brK1E8zMU62wVmqL9"
+        },
+        {
+            "fileName": "DrJuezEVAAA8xN3.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1i9XQBpcL4TppCatk9HYGJo3GPH6DQ0T8",
+            "ratio": 1.777777778,
+            "location": "Rumah Makan Pagi Sero, Bandung",
+            "locationUrl": "https://goo.gl/maps/e6qndq8LuDJjwxGC7"
+        },
+        {
+            "fileName": "DraLrV-V4AAhnry.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1I-KMse1bzkVLguMfgEM3gy-Vnj89U0E2",
+            "ratio": 1.777777778,
+            "location": "Swike Karang Anyar, Bandung",
+            "locationUrl": "https://goo.gl/maps/Cs2MZccVwTqdXYep6"
+        },
+        {
+            "fileName": "DqvkFl0UUAAq4dH.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1ri3hYnukE8ZmQ2hQ_W0UcuvTRtsQ3W6k",
+            "ratio": 1.777777778,
+            "location": "Terminale Gelato, Bandung",
+            "locationUrl": "https://goo.gl/maps/swHomv8VcrcXTgeg7"
+        },
+        {
+            "fileName": "DqvjrxSVsAUhx4E.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1zMzwTN5Zq6AAOYVan-UWo4QDFr9CpKEx",
+            "ratio": 1.777777778,
+            "location": "Hakata Ikkousha, Bandung",
+            "locationUrl": "https://g.page/ikkoushabdg?share"
+        },
+        {
+            "fileName": "DqvjbW-U0AA0Yi4.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1b9eH3rE3xdegmvXNHTlqShFmNIaNSzEe",
+            "ratio": 1.777777778,
+            "location": "Hakata Ikkousha, Bandung",
+            "locationUrl": "https://g.page/ikkoushabdg?share"
+        },
+        {
+            "fileName": "Dqvj7oLV4AEQuF8.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1gX1hMM3maI_m1J9Z0y8EtaRAoksYIrbs",
+            "ratio": 1.777777778,
             "location": "",
             "locationUrl": ""
         },
         {
-            "fileName": "EhYNGZJU8AELZRi.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1cFFnhJcvxJT4OcVgGogeEj3iRbPSzeWf",
-            "ratio": 0.75,
-            "date": "",
+            "fileName": "DqvivWKU4AAvu_W.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1ZyjDvVmfInDGEy4wIVCz1DI_1qMeHEz0",
+            "ratio": 1.777777778,
             "location": "",
             "locationUrl": ""
+        },
+        {
+            "fileName": "DqqutS1VAAAnQ_o.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1BYSmXATLC6T-Mib6sTAid60W9JF1OK3k",
+            "ratio": 1.777777778,
+            "location": "Nara Park, Bandung",
+            "locationUrl": "https://g.page/narabandung?share"
+        },
+        {
+            "fileName": "DqquQy6V4AAD87q.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1RJXnIcA9mf3OpJC1GzUeCg_-RDymR5WE",
+            "ratio": 1.777777778,
+            "location": "Nara Park, Bandung",
+            "locationUrl": "https://g.page/narabandung?share"
         },
         {
             "fileName": "DqquFQdU0AAfFkD.jpeg.jpg",
             "url": "http://drive.google.com/uc?export=view&id=1nhJMDI-y6a6y7W3MJDVS-QWyv7M7ip11",
             "ratio": 0.5625,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
+            "location": "Nara Park, Bandung",
+            "locationUrl": "https://g.page/narabandung?share"
+        },
+        {
+            "fileName": "DqquddFU8AA2dZq.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1E2ckG5TAgaGbR0uxXehvr3sXVGll8F2I",
+            "ratio": 1.777777778,
+            "location": "Nara Park, Bandung",
+            "locationUrl": "https://g.page/narabandung?share"
+        },
+        {
+            "fileName": "DqqteWxVsAIinuA.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1VbT68NDheGGiVwXPDnWypgtAonDKAQR5",
+            "ratio": 1.777777778,
+            "location": "Nara Park, Bandung",
+            "locationUrl": "https://g.page/narabandung?share"
+        },
+        {
+            "fileName": "Dql9olRX4AYJmbB.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1UqVQhZu3QZJGist274Avsj8Iyz6g6bFy",
+            "ratio": 1.777777778,
+            "location": "Bubur Ayam Serburame, Bandung",
+            "locationUrl": "https://goo.gl/maps/67WJYN3redsqVZAv7"
         },
         {
             "fileName": "Dql9KWXWsAEtsKD.jpeg.jpg",
             "url": "http://drive.google.com/uc?export=view&id=1o55N2gkkkdxHEV4se8p4JWQDBw7zEDoS",
             "ratio": 0.7145833333,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
+            "location": "Se'i Sapi Lamalera, Bandung",
+            "locationUrl": "https://g.page/sei-sapi-lamalera-bagusrangin?share"
         },
         {
-            "fileName": "FCZQLv8UcBIwINv.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1uLHX_Z_5vmndvL0bF0cFkYL-tpGHiLFQ",
-            "ratio": 0.75,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
+            "fileName": "Dql8zIdXcAAaTJF.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=15_Ygj0l6lO5M9OStvCon-llx82mkipze",
+            "ratio": 1.777777778,
+            "location": "Bolu Bakar Tunggal, Bandung",
+            "locationUrl": "https://goo.gl/maps/kZnwLdTGYLCJBL879"
         },
         {
-            "fileName": "D7iE2D5U8AYciwG.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1viBLfnFslFcXK3u6yVl8HohT-0Blwhbp",
-            "ratio": 0.5625,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
+            "fileName": "Dql8X4IW4AIX0Vc.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1EdIXtz_kuh4CHSoa4aESW2d-trH7E-3A",
+            "ratio": 1.777777778,
+            "location": "Pasar Simpang Dago, Bandung",
+            "locationUrl": "https://goo.gl/maps/Ze6JjcVJUvvvHtsH8"
         },
         {
-            "fileName": "Dq4W10dVYAEUptb.jpeg.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1wlVWaByC3vy8MuQ54akBocsu74ixG4yE",
-            "ratio": 0.6958333333,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
+            "fileName": "Dql-IZwW4AAqKZ4.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=196vnUfYTc0ZKjaxbfd_0H-f-hsOm1DWn",
+            "ratio": 1.777777778,
+            "location": "Bakso Arief, Bandung",
+            "locationUrl": "https://goo.gl/maps/rqaRJA8mx8ZxRMS58"
         },
         {
             "fileName": "Dq61BXAUUAEDRwr.jpeg.jpg",
             "url": "http://drive.google.com/uc?export=view&id=1xVprSHzFb6Fe_u7UclFiCKVcroNnW1R9",
             "ratio": 0.7729166667,
-            "date": "",
-            "location": "",
-            "locationUrl": ""
-        }, {
-            "fileName": "20210306_163824.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=110x4RmVu70NJuAIMzEWULOio37BHH7od",
-            "ratio": 0.75,
-            "date": "2021:03:06 16:38:24",
-            "location": "Petite Pastry, Batam",
-            "locationUrl": "https://goo.gl/maps/Vtd3nRxv4fg8r7tL6"
+            "location": "Gusto Gelato & Caff�, Bali",
+            "locationUrl": "https://g.page/gustogelatobali?share"
         },
         {
-            "fileName": "20201107_132017.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=112BF5VIXhyzBBOV_fMi0-9inA9D6wlAC",
-            "ratio": 0.75,
-            "date": "2020:11:07 13:20:17",
-            "location": "O Pempek, Batam",
-            "locationUrl": "https://www.instagram.com/opempekbatam/"
+            "fileName": "Dq60r5MU4AALSTt.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=10iV10wB5kQYDnQ736pPfFA3Y1GaZWhOG",
+            "ratio": 0.9333333333,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "Dq60MozVYAAIrRU.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1F9FVnPzgxeeULE9zPFG1N8wlxqY_R31t",
+            "ratio": 0.775,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "Dq60bXzUcAAj_eW.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1ueAClh4gPdpk4oc0QoAmrXGQwzeHG67J",
+            "ratio": 1.383285303,
+            "location": "Bola Obi Gardujati - Cibadak, Bandung",
+            "locationUrl": "https://goo.gl/maps/qJf5mw3Qc5sC7moa9"
+        },
+        {
+            "fileName": "Dq4W10dVYAEUptb.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1wlVWaByC3vy8MuQ54akBocsu74ixG4yE",
+            "ratio": 0.6958333333,
+            "location": "Warung Utem GOR Saparua, Bandung",
+            "locationUrl": "https://goo.gl/maps/LHXitJD4UNYYXx358"
+        },
+        {
+            "fileName": "Dq1znVJVAAED-KN.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1sfqhY3RuUoydDgkxHM83uq5YJy-rwhJx",
+            "ratio": 1.777777778,
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "Dq1lr9YV4AA8c61.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=17GvvgnYhuumgUPKU4l_G4ikbPKTM4lLA",
+            "ratio": 1.777777778,
+            "location": "MOREAU Chocolatier's Cafe, Jakarta",
+            "locationUrl": "https://g.page/moreauchocolate?share"
+        },
+        {
+            "fileName": "Dq1lDvlU8AAxaLt.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=16Wzwxz3cv9TCHNuPKqW9laZ5QDnR6YuA",
+            "ratio": 1.777777778,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "Dq11l8GVYAE4xw2.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1wMM3VXj6gdgoJS8QeOuxwn76WDj3YxiK",
+            "ratio": 1.777777778,
+            "location": "Siomay Tahu Ikan Pak Ade, Bandung",
+            "locationUrl": "https://goo.gl/maps/D9qzUVuQSARAkhsM8"
+        },
+        {
+            "fileName": "Dq10UsaU0AA7WTN.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1O3sWlGWampI82mhn_5pCIsC6_0nJy32O",
+            "ratio": 1.777777778,
+            "location": "Shophaus Menteng, Jakarta",
+            "locationUrl": "https://goo.gl/maps/9tgEj3qFxinFnWZo6"
+        },
+        {
+            "fileName": "D7iE7xNUcAAphz9.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=11wb-TsYbCjnI1JBirwSL0-N3CHB_XeD4",
+            "ratio": 1.777777778,
+            "location": "Swee Choon Tim Sum Restaurant, Singapore",
+            "locationUrl": "https://goo.gl/maps/FG2GStSHDTybKVi58"
+        },
+        {
+            "fileName": "D7iE6yfVsAAquC0.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=17EyafJVeW5ams7TW8D1L-tX2zf1VoOuS",
+            "ratio": 0.5625,
+            "location": "Swee Choon Tim Sum Restaurant, Singapore",
+            "locationUrl": "https://goo.gl/maps/FG2GStSHDTybKVi56"
+        },
+        {
+            "fileName": "D7iE2D5U8AYciwG.jpeg.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1viBLfnFslFcXK3u6yVl8HohT-0Blwhbp",
+            "ratio": 0.5625,
+            "location": "Swee Choon Tim Sum Restaurant, Singapore",
+            "locationUrl": "https://goo.gl/maps/FG2GStSHDTybKVi57"
+        },
+        {
+            "fileName": "20220228_200030.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1Peq2FDrgITzqUHUcoilZxiwchqpcFofj",
+            "ratio": 2.222222222,
+            "location": "Bakmi Jowo Mbah Oman",
+            "locationUrl": "https://goo.gl/maps/goT5PG6tet3M5mBX6"
+        },
+        {
+            "fileName": "20220226_194947.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1PHlcETjEwQRxmVK17O9KVW3ZGAsIuGVE",
+            "ratio": 2.222222222,
+            "location": "Dae Jang Geum, Batam",
+            "locationUrl": "https://goo.gl/maps/dhXcKFNtCYnLBQQ6A"
+        },
+        {
+            "fileName": "20220225_204551.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1OlgjA3B-mkq6uhc1RzpdpIxTMOGG-xDc",
+            "ratio": 0.45,
+            "location": "Solusi Coffee & Resto, Batam",
+            "locationUrl": "https://goo.gl/maps/g2Ud98nQd5sieWAA6"
+        },
+        {
+            "fileName": "20220225_200911.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1xqVBewV16f2TXc1YIV4Fdv8nvpM1wWY5",
+            "ratio": 2.222222222,
+            "location": "Solusi Coffee & Resto, Batam",
+            "locationUrl": "https://goo.gl/maps/g2Ud98nQd5sieWAA6"
+        },
+        {
+            "fileName": "20220220_194215.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1xbsc1g79pz1LP10o4XqKfOZzG25AmPlf",
+            "ratio": 2.222222222,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20220212_180831.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1pbn-VqTxomQpaGQ8JRA20ImYgZHILSUk",
+            "ratio": 0.45,
+            "location": "Bebek & Ayam Goreng Sari Asli, Kartasura",
+            "locationUrl": "https://goo.gl/maps/gHh8tQ2nhGWBwaSr9"
+        },
+        {
+            "fileName": "20220212_180656.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1zfD2OnHGMwnHtSC8u3WD9x6gktgeo5p-",
+            "ratio": 2.222222222,
+            "location": "Bebek & Ayam Goreng Sari Asli, Kartasura",
+            "locationUrl": "https://goo.gl/maps/gHh8tQ2nhGWBwaSr9"
+        },
+        {
+            "fileName": "20220212_124509.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1-A2PTp1jf1Ch_T6ZA8tSdKbY4RNLRLf9",
+            "ratio": 2.222222222,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20220212_060523.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=16eTY5g2wQ3eReADenWO7JGvXZ85-nrqC",
+            "ratio": 2.222222222,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20220211_174659.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=13mUnoIe211WV351_FdjlmsMXvIQFxxJG",
+            "ratio": 2.222222222,
+            "location": "Gudeg Bu Hj. Ahmad, Yogyakarta",
+            "locationUrl": "https://goo.gl/maps/W82AYzkAwwE49E156"
+        },
+        {
+            "fileName": "20220211_174254.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1FLsN48mSXTJJA-AD5dSSDfX_knFEoIQF",
+            "ratio": 0.45,
+            "location": "Gudeg Bu Hj. Ahmad, Yogyakarta",
+            "locationUrl": "https://goo.gl/maps/W82AYzkAwwE49E156"
+        },
+        {
+            "fileName": "20220211_174245.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1liZR1Mh59APm4Y6ZEUjTEf96xpLkURb5",
+            "ratio": 2.222222222,
+            "location": "Gudeg Bu Hj. Ahmad, Yogyakarta",
+            "locationUrl": "https://goo.gl/maps/W82AYzkAwwE49E156"
+        },
+        {
+            "fileName": "20220211_143507.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1cQ-s0o2ApLRjQGKWZ26ykHMS3qtfKN6c",
+            "ratio": 0.45,
+            "location": "Tempo Gelato, Yogyakarta",
+            "locationUrl": "https://g.page/tempo-gelato-kaliurang?share"
+        },
+        {
+            "fileName": "20220211_143350.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1Nh5Zq95rfvx-33dRpsxwhau3eqxw6eWM",
+            "ratio": 2.222222222,
+            "location": "Tempo Gelato, Yogyakarta",
+            "locationUrl": "https://g.page/tempo-gelato-kaliurang?share"
+        },
+        {
+            "fileName": "20220211_095555.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1iCXbXXBTOZMoPl4PALpyyh62aoHAMQnf",
+            "ratio": 2.222222222,
+            "location": "Sop Senerek Pak Parto, Magelang",
+            "locationUrl": "https://goo.gl/maps/aHyyVEoPJcEZLTje6"
+        },
+        {
+            "fileName": "20220210_132607.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1Xjgy-TPrTkh8HvBAPA4D7LdoqgY1-9Re",
+            "ratio": 2.222222222,
+            "location": "D'Kambodja Dapur Ndeso Anne Avantie, Semarang",
+            "locationUrl": "https://goo.gl/maps/Htsv49hwz2gQmT8XA"
+        },
+        {
+            "fileName": "20220208_185007.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=19Cv1R7L0o9mIHyLuUL5ukxrarLhtRd5B",
+            "ratio": 0.45,
+            "location": "Sop Buntut, Ayam Goreng & Iga Bakar Pak To, Semarang",
+            "locationUrl": "https://goo.gl/maps/BHW8F7FL3qXQ7C4H9"
+        },
+        {
+            "fileName": "20220208_184943.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1oWmDQ2R5VqD15DBnFjBUS9u05qeBz8Py",
+            "ratio": 2.222222222,
+            "location": "Sop Buntut, Ayam Goreng & Iga Bakar Pak To, Semarang",
+            "locationUrl": "https://goo.gl/maps/BHW8F7FL3qXQ7C4H9"
+        },
+        {
+            "fileName": "20220207_190511.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1jUWsiOmYXmu8GJVWiTPdCaubjjmMiP53",
+            "ratio": 0.45,
+            "location": "Pizza Marzano, Semarang",
+            "locationUrl": "https://goo.gl/maps/SUcVQa7ohDFRpPBHA"
+        },
+        {
+            "fileName": "20220207_190441.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=12jduQJQOIMuavQZIAd3kAlE5rgGQ0jWJ",
+            "ratio": 2.222222222,
+            "location": "Pizza Marzano, Semarang",
+            "locationUrl": "https://goo.gl/maps/SUcVQa7ohDFRpPBHA"
+        },
+        {
+            "fileName": "20220207_184309.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1B0zYBtGM87TpuW3JdhjDaKAbCQB7A9aa",
+            "ratio": 0.45,
+            "location": "Pizza Marzano, Semarang",
+            "locationUrl": "https://goo.gl/maps/SUcVQa7ohDFRpPBHA"
+        },
+        {
+            "fileName": "20220207_184303.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1ICDsapT8CCzxNs8GBTUe47lUTmsE_zb1",
+            "ratio": 2.222222222,
+            "location": "Pizza Marzano, Semarang",
+            "locationUrl": "https://goo.gl/maps/SUcVQa7ohDFRpPBHA"
+        },
+        {
+            "fileName": "20220207_184209.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=17Scp36-IQJIMpZkWTZb-Kg1vl1NGxCko",
+            "ratio": 2.222222222,
+            "location": "Pizza Marzano, Semarang",
+            "locationUrl": "https://goo.gl/maps/SUcVQa7ohDFRpPBHA"
         },
         {
             "fileName": "20220207_184000.jpg",
             "url": "http://drive.google.com/uc?export=view&id=11WhRW5cqgiF5Kul5KO4IQuwLQ7qprYO3",
             "ratio": 0.45,
-            "date": "2022:02:07 18:40:00",
             "location": "Pizza Marzano, Semarang",
             "locationUrl": "https://goo.gl/maps/SUcVQa7ohDFRpPBHA"
+        },
+        {
+            "fileName": "20220206_185525.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1Kzr06vQOd10R4yLFU4U0hVpwZrJaeHyG",
+            "ratio": 2.222222222,
+            "location": "Hokben, Jakarta",
+            "locationUrl": "https://goo.gl/maps/NCjF71Ydwz3mKjHDA"
+        },
+        {
+            "fileName": "20220206_081826.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1XqZ7-EIldPZ7uM13SJSQWrhG-TYEpvvv",
+            "ratio": 2.222222222,
+            "location": "Ciang Hau Kopitiam, Batam",
+            "locationUrl": "https://goo.gl/maps/TEENBP32zm8iNVT16"
+        },
+        {
+            "fileName": "20220201_131029.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1tptfafeqNzMwMhiApCdMS8Q1D8YPgVbT",
+            "ratio": 2.222222222,
+            "location": "One Food Street, Batam",
+            "locationUrl": "https://goo.gl/maps/E3b9ibGnR26vJzaZ8"
+        },
+        {
+            "fileName": "20220131_203652.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1dMKvRh7ZtZtN59eZmGMn5siCgxHSViLo",
+            "ratio": 2.222222222,
+            "location": "Sate Jawa Asli, Batam",
+            "locationUrl": "https://goo.gl/maps/iKHxhcH3oBP8pt2U7"
+        },
+        {
+            "fileName": "20220131_203645.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1pWFfmKKOgaRbLErHbfkAqqjMxmFNp4NJ",
+            "ratio": 2.222222222,
+            "location": "Sate Jawa Asli, Batam",
+            "locationUrl": "https://goo.gl/maps/iKHxhcH3oBP8pt2U7"
+        },
+        {
+            "fileName": "20220131_203634.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1gsO7gUaR1WyXAJo_Gvi_thDjY0A-nD1X",
+            "ratio": 0.45,
+            "location": "Sate Jawa Asli, Batam",
+            "locationUrl": "https://goo.gl/maps/iKHxhcH3oBP8pt2U7"
+        },
+        {
+            "fileName": "20220130_114452.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1fA8Xw7BAHFi5Yu0l5qDpK9m0xlgYtK4r",
+            "ratio": 2.222222222,
+            "location": "Hikirin Modern Japanese Restaurant, Batam",
+            "locationUrl": "https://goo.gl/maps/kzF2mnFbvyUFW8By5"
         },
         {
             "fileName": "20220128_201942.jpg",
             "url": "http://drive.google.com/uc?export=view&id=11rIqML55y71_AWX37FVBS6Kf3IwNqjFW",
             "ratio": 0.45,
-            "date": "2022:01:28 20:19:42",
             "location": "Dae Jang Geum, Batam",
             "locationUrl": "https://goo.gl/maps/dhXcKFNtCYnLBQQ6A"
         },
         {
-            "fileName": "20220201_131018.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=12ktGFK8bPPW8_krJVLQkjp_yyTjxHILd",
+            "fileName": "20220122.jpeg",
+            "url": "http://drive.google.com/uc?export=view&id=1Oy5zEkeo8LMPKhD64rasZh5mFolxhBeM",
+            "ratio": 1.333333333,
+            "location": "Pempek Kolecta, Batam",
+            "locationUrl": "https://goo.gl/maps/yPXWqWNY23WTVPKk7"
+        },
+        {
+            "fileName": "20220117_194120.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1yKTkGPSlsiPYt6eehqVFKMRHy6wqETRy",
             "ratio": 0.45,
-            "date": "2022:02:01 13:10:19",
-            "location": "One Food Street, Batam",
-            "locationUrl": "https://goo.gl/maps/E3b9ibGnR26vJzaZ8"
+            "location": "",
+            "locationUrl": ""
         },
         {
-            "fileName": "20210129_200354.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=12s5OnbiwXPiSv_989NX7PztNU4h8k53C",
-            "ratio": 0.75,
-            "date": "2021:01:29 20:03:54",
-            "location": "Sushi Tei, Batam",
-            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+            "fileName": "20220115_201403.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1h0wI-PFWJwPxgARpASdpS5d796fvdiuB",
+            "ratio": 2.222222222,
+            "location": "Cafe Rahasia Cuan, Batam",
+            "locationUrl": "https://goo.gl/maps/Py6raJKpdWYFugRw7"
         },
         {
-            "fileName": "20210613_151530.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=137CNVV7M5MUTu57H6dPsemQvEsvEFNBH",
+            "fileName": "20211230_083156.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1Rcc9db6_-7kNAfOlt5WjD56OX8C1xwps",
             "ratio": 0.75,
-            "date": "2021:06:13 15:15:30",
-            "location": "F�r Elise, Batam",
-            "locationUrl": "https://goo.gl/maps/abjJwpV6KJ38mtS87"
+            "location": "Bubur Ayam Serburame, Bandung",
+            "locationUrl": "https://goo.gl/maps/67WJYN3redsqVZAv7"
         },
         {
-            "fileName": "IMG_5909.JPG",
-            "url": "http://drive.google.com/uc?export=view&id=13XrQJJ3xFtaimY9xApxmCaQRcEfnpoZZ",
+            "fileName": "20211230_083146.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=18-kwL90ilRfcdxuFzCYw5EYKzMt_kuPL",
             "ratio": 0.75,
-            "date": "2015:05:10 19:00:19",
-            "location": "Karangsambung, Kebumen",
-            "locationUrl": "https://goo.gl/maps/QDe4yZj2zoxVNwSE9"
+            "location": "Bubur Ayam Serburame, Bandung",
+            "locationUrl": "https://goo.gl/maps/67WJYN3redsqVZAv7"
         },
         {
-            "fileName": "IMG_0099.jpeg",
-            "url": "http://drive.google.com/uc?export=view&id=14w7elKqmtvzFXosOZpce_MjK2VYUBbcP",
+            "fileName": "20211230_083140.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1k9s57f0WQV5CF-7qEjc5V_GjE7kBPFbs",
             "ratio": 0.75,
-            "date": "2021:05:14 11:11:03",
-            "location": "Veranta Cafe, Batam",
-            "locationUrl": "https://goo.gl/maps/KnR3unK7Hk7sm9Jn6"
+            "location": "Bubur Ayam Serburame, Bandung",
+            "locationUrl": "https://goo.gl/maps/67WJYN3redsqVZAv7"
         },
         {
-            "fileName": "20200808_124513.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=152A1Ou5ToX0Y6_uNXRq59DgbBQk0JM7M",
+            "fileName": "20211227_182153.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1ippNAOkOQ4ZydKWaRVEVsoqmIV_-dby6",
             "ratio": 0.75,
-            "date": "2020:08:08 12:45:13",
+            "location": "Swike Karang Anyar, Bandung",
+            "locationUrl": "https://goo.gl/maps/Cs2MZccVwTqdXYep6"
+        },
+        {
+            "fileName": "20211226_115845.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1xtl2H5-2iv_IhM58TTFyJHIWsCT-_f2i",
+            "ratio": 1.333333333,
+            "location": "Suis Butcher Steak House, Bandung",
+            "locationUrl": "https://goo.gl/maps/Kx1kxHSGrSy1mL8x6"
+        },
+        {
+            "fileName": "20211224_114210.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=12rYoIQm36aOrauXrd7kre4iQdBBN9weu",
+            "ratio": 1.333333333,
+            "location": "Zenbu, Bandung",
+            "locationUrl": "https://goo.gl/maps/eYDynZZUWutcmhzPA"
+        },
+        {
+            "fileName": "20211221_124858.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1EQFI00eKl135f2Mg9ukQvH_qCNLgp4UZ",
+            "ratio": 0.75,
+            "location": "Nasi Campur Kenanga, Jakarta",
+            "locationUrl": "https://goo.gl/maps/SMbfx62MkWTLLr7A9"
+        },
+        {
+            "fileName": "20211216_204438.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1FuNvjH_vElMUBJwZFGPoCnB6WRXrIkhr",
+            "ratio": 0.75,
+            "location": "Hakata Ikkousha Ramen, Batam",
+            "locationUrl": "https://goo.gl/maps/ebxqsNmAgcWhvsvt5"
+        },
+        {
+            "fileName": "20211212_215115.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1r8tNuY7sFtOpfWB_mwDa16iCV3YpGErp",
+            "ratio": 0.75,
+            "location": "Hola Pizza, Batam",
+            "locationUrl": "https://g.page/thehillsbatam?share"
+        },
+        {
+            "fileName": "20211121_182302.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1_Z5yXj2fxB419wOqPymbTCBiV72QLMxL",
+            "ratio": 1.333333333,
+            "location": "Teras Cafe, Batam",
+            "locationUrl": "https://goo.gl/maps/2HcdPQEnZCpFgpGb9"
+        },
+        {
+            "fileName": "20211121_102343.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1dCvW1C-Y-X0-X9tza8WptSl0_KrR5sMw",
+            "ratio": 1.333333333,
+            "location": "Nasi Uduk & Seafood Rio, Batam",
+            "locationUrl": "https://goo.gl/maps/U7xNe8s5HSJpLvWa8"
+        },
+        {
+            "fileName": "20211109.jpeg",
+            "url": "http://drive.google.com/uc?export=view&id=1EGK92q3Ue_hVMylpaOFXUboFQi7hce83",
+            "ratio": 0.75,
+            "location": "itsum? TART, Batam",
+            "locationUrl": "https://goo.gl/maps/jrdPjaHaCCGKK1Cu7"
+        },
+        {
+            "fileName": "20211107_201129.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1lIUZOIqM3zYvEQ-WF9Rp0mLbrb2LJrqM",
+            "ratio": 1.333333333,
+            "location": "Braga Cafe and Bar, Batam",
+            "locationUrl": "https://goo.gl/maps/ibG4prRJdaWS9c439"
+        },
+        {
+            "fileName": "20211107_195514.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1nmUd9Z6cmgYsNfZNahM8De6_Go8fPGsP",
+            "ratio": 0.75,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20211024_093744.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1WxyBS_-1prkzTA3C-vOExWoJHHBYzLp6",
+            "ratio": 0.75,
+            "location": "Sany Noodle Bar, Batam",
+            "locationUrl": "https://g.page/sanynoodlebar?share"
+        },
+        {
+            "fileName": "20211020_193808.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1kiRTyGoUu55KK5Q1EoC5syDUaOS13m9i",
+            "ratio": 0.75,
             "location": "",
             "locationUrl": ""
         },
@@ -1498,215 +745,41 @@
             "fileName": "20211003_184051.jpg",
             "url": "http://drive.google.com/uc?export=view&id=153mPxvR44SGm7Al6w5aWjnsi50vkVRqn",
             "ratio": 0.75,
-            "date": "2021:10:03 18:40:50",
             "location": "",
             "locationUrl": ""
+        },
+        {
+            "fileName": "20211003_111946.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1HYvZXAaMFHlYYyZthl3cDxwdMNcBTqF6",
+            "ratio": 1.333333333,
+            "location": "Baa Baa Kambing, Batam",
+            "locationUrl": "https://goo.gl/maps/A8Hxem2pVADX2XJfA"
+        },
+        {
+            "fileName": "20211003_111910.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=10sxkK4MEczWj1WW1ku99ZtYG_spbrd1b",
+            "ratio": 1.333333333,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20211003_111858.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=11zPuQo2gfjhT692jnE2UplB8SOVeh9lJ",
+            "ratio": 1.333333333,
+            "location": "Baa Baa Kambing, Batam",
+            "locationUrl": "https://goo.gl/maps/A8Hxem2pVADX2XJfA"
         },
         {
             "fileName": "20211003_111848.jpg",
             "url": "http://drive.google.com/uc?export=view&id=16Nfp95UGIfQnJ1m-cLhCkwP0aJ6tHt12",
             "ratio": 0.75,
-            "date": "2021:10:03 11:18:47",
             "location": "Baa Baa Kambing, Batam",
             "locationUrl": "https://goo.gl/maps/A8Hxem2pVADX2XJfA"
-        },
-        {
-            "fileName": "20201021_120140.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=16swtYEDFyxiHWSSl_TkMA5w2scAzraQY",
-            "ratio": 0.75,
-            "date": "2020:10:21 12:01:38",
-            "location": "Mie Pangsit Yuw Mie Medan, Batam",
-            "locationUrl": "https://goo.gl/maps/RdALKaH4cZwFi7BU8"
-        },
-        {
-            "fileName": "20200520_200317.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=17h7b6ZT3aNA6wWKAKCVxaa8z9Kn1rQWM",
-            "ratio": 0.5625,
-            "date": "2020:05:20 20:03:16",
-            "location": "Olive & Co, Batam",
-            "locationUrl": "https://g.page/olive-co-batam?share"
-        },
-        {
-            "fileName": "20210619_200111.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=17peJPENOKfYKw9DjquLWA9nCvq_feeXW",
-            "ratio": 0.75,
-            "date": "2021:06:19 20:01:11",
-            "location": "Sushi Tei, Batam",
-            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
-        },
-        {
-            "fileName": "20210307_195100.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=17rv4Vw45DD4mBs__C-Ul_fsZtAV7-cHk",
-            "ratio": 0.75,
-            "date": "2021:03:07 19:51:00",
-            "location": "Citra Pempek, Batam",
-            "locationUrl": "https://goo.gl/maps/S8UTUG3SZp46GYNSA"
-        },
-        {
-            "fileName": "20211230_083146.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=18-kwL90ilRfcdxuFzCYw5EYKzMt_kuPL",
-            "ratio": 0.75,
-            "date": "2021:12:30 08:31:46",
-            "location": "Bubur Ayam Serburame, Bandung",
-            "locationUrl": "https://goo.gl/maps/67WJYN3redsqVZAv7"
-        },
-        {
-            "fileName": "20200308_142510.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=188EZ_U64Sdquk4TJqNeRFSxq24QAybZh",
-            "ratio": 0.5625,
-            "date": "2020:03:08 14:25:10",
-            "location": "Olive & Co, Batam",
-            "locationUrl": "https://g.page/olive-co-batam?share"
-        },
-        {
-            "fileName": "20210623_104444.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=18h1Pfxav-pP-_WO5vFJixCaqD3Nedk1A",
-            "ratio": 0.75,
-            "date": "2021:06:23 10:44:44",
-            "location": "Sela� Jam, Jakarta",
-            "locationUrl": "https://www.instagram.com/selae.id/"
-        },
-        {
-            "fileName": "20220208_185007.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=19Cv1R7L0o9mIHyLuUL5ukxrarLhtRd5B",
-            "ratio": 0.45,
-            "date": "2022:02:08 18:50:07",
-            "location": "Sop Buntut, Ayam Goreng & Iga Bakar Pak To, Semarang",
-            "locationUrl": "https://goo.gl/maps/BHW8F7FL3qXQ7C4H9"
-        },
-        {
-            "fileName": "20211002_112059.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=19_KSomHuRTmAy_tJVm0v_ZcrJACufB6y",
-            "ratio": 0.75,
-            "date": "2021:10:02 11:20:58",
-            "location": "Graineat, Batam",
-            "locationUrl": "https://www.instagram.com/graineat"
-        },
-        {
-            "fileName": "20210618_195005.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=19eW_99REfvjlwb02yJt__KVzsD_h5kgB",
-            "ratio": 0.75,
-            "date": "2021:06:18 19:50:05",
-            "location": "Tore Japanese Eatery & Coffee, Batam",
-            "locationUrl": "https://g.page/ToreJapanese?share"
-        },
-        {
-            "fileName": "20210308_070958.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=19iJcViwVQHxst4jDR3oAz9VweDyyYHsV",
-            "ratio": 0.75,
-            "date": "2021:03:08 07:09:58",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "IMG_0012.jpeg",
-            "url": "http://drive.google.com/uc?export=view&id=19sx6_YNDBz77Eq0gscPPnMiFDZ8j4xdR",
-            "ratio": 0.75,
-            "date": "2021:04:13 19:32:31",
-            "location": "Fat Boy Club, Batam",
-            "locationUrl": "https://goo.gl/maps/7okYvkHUabtVoRqV8"
-        },
-        {
-            "fileName": "20220207_184309.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1B0zYBtGM87TpuW3JdhjDaKAbCQB7A9aa",
-            "ratio": 0.45,
-            "date": "2022:02:07 18:43:09",
-            "location": "Pizza Marzano, Semarang",
-            "locationUrl": "https://goo.gl/maps/SUcVQa7ohDFRpPBHA"
-        },
-        {
-            "fileName": "20210213_081923.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1Bx22jZR8szFhigptvyfa2occpap7nbmf",
-            "ratio": 0.75,
-            "date": "2021:02:13 08:19:23",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200321_140956.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1CTpzJYG08Ia3nAqJcMUQlj-D12LJt7XY",
-            "ratio": 0.5625,
-            "date": "2020:03:21 14:09:56",
-            "location": "happypasticceria, Batam",
-            "locationUrl": "https://www.instagram.com/happypasticceria"
-        },
-        {
-            "fileName": "IMG_0176.jpeg",
-            "url": "http://drive.google.com/uc?export=view&id=1EGK92q3Ue_hVMylpaOFXUboFQi7hce83",
-            "ratio": 0.75,
-            "date": "2021:11:09 15:16:31",
-            "location": "itsum? TART, Batam",
-            "locationUrl": "https://goo.gl/maps/jrdPjaHaCCGKK1Cu7"
-        },
-        {
-            "fileName": "20211221_124858.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1EQFI00eKl135f2Mg9ukQvH_qCNLgp4UZ",
-            "ratio": 0.75,
-            "date": "2021:12:21 12:48:58",
-            "location": "Nasi Campur Kenanga, Jakarta",
-            "locationUrl": "https://goo.gl/maps/SMbfx62MkWTLLr7A9"
-        },
-        {
-            "fileName": "20201107_131839.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1EWjrIOdQ2AswoBNXGztFrTwsvhLFyIjR",
-            "ratio": 0.75,
-            "date": "2020:11:07 13:18:39",
-            "location": "O'Pempek, Batam",
-            "locationUrl": "https://www.instagram.com/opempekbatam/"
-        },
-        {
-            "fileName": "20201121_000621.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1EtVYVGsgcohMn2WHNC6WC2FpuNLg_A2P",
-            "ratio": 0.75,
-            "date": "2020:11:21 00:06:21",
-            "location": "Sushi Tei, Batam",
-            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
-        },
-        {
-            "fileName": "20211216_204438.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1FuNvjH_vElMUBJwZFGPoCnB6WRXrIkhr",
-            "ratio": 0.75,
-            "date": "2021:12:16 20:44:37",
-            "location": "Hakata Ikkousha Ramen, Batam",
-            "locationUrl": "https://goo.gl/maps/ebxqsNmAgcWhvsvt5"
-        },
-        {
-            "fileName": "20200322_184731.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1GUtGtgSH0RaFSIK8-C-SHlLwyuO_Q-9T",
-            "ratio": 0.5625,
-            "date": "2020:03:22 18:47:30",
-            "location": "Mie Pangsit Yuw Mie Medan, Batam",
-            "locationUrl": "https://goo.gl/maps/RdALKaH4cZwFi7BU8"
-        },
-        {
-            "fileName": "20201107_132002.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1HcxU8vYXVq_R6UP0SRVrxFGuqKNsU-4F",
-            "ratio": 0.75,
-            "date": "2020:11:07 13:20:02",
-            "location": "O'Pempek, Batam",
-            "locationUrl": "https://www.instagram.com/opempekbatam/"
-        },
-        {
-            "fileName": "20210526_073211.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1Iqv4wXKo6EwoplFl9yKZUzEUB_8yIGn_",
-            "ratio": 0.75,
-            "date": "2021:05:26 07:32:11",
-            "location": "Kwetiau Liang, Batam",
-            "locationUrl": "https://goo.gl/maps/VP9ijr1ZuFHuNP2z6"
-        },
-        {
-            "fileName": "IMG_0108.jpeg",
-            "url": "http://drive.google.com/uc?export=view&id=1LGkxt7zjgGu4UcdVdSkaPKNd2LP_IRen",
-            "ratio": 0.75,
-            "date": "2021:05:14 11:31:59",
-            "location": "Veranta Cafe, Batam",
-            "locationUrl": "https://goo.gl/maps/KnR3unK7Hk7sm9Jn6"
         },
         {
             "fileName": "20210926_184029.jpg",
             "url": "http://drive.google.com/uc?export=view&id=1Lapk_ymwfDOB4eggOX5ViA-VIoM8Cz8-",
             "ratio": 0.75,
-            "date": "2021:09:26 18:40:28",
             "location": "Magal Korean BBQ, Batam",
             "locationUrl": "https://goo.gl/maps/4Fe92YgZY5mg6wns7"
         },
@@ -1714,567 +787,90 @@
             "fileName": "20210926_181051.jpg",
             "url": "http://drive.google.com/uc?export=view&id=1M0PBpj7kNEzRrtYnJQuahDIBjJ8ApE8d",
             "ratio": 0.75,
-            "date": "2021:09:26 18:10:50",
             "location": "Magal Korean BBQ, Batam",
             "locationUrl": "https://goo.gl/maps/4Fe92YgZY5mg6wns7"
-        },
-        {
-            "fileName": "20210111_194616.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1NFt5Wqbv5kRda_Vk5olsiTLw2eNleqsQ",
-            "ratio": 0.75,
-            "date": "2021:01:11 19:46:16",
-            "location": "Port House Resto & Bar, Batam",
-            "locationUrl": "https://g.page/Port-House-Batam?share"
-        },
-        {
-            "fileName": "20220225_204551.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1OlgjA3B-mkq6uhc1RzpdpIxTMOGG-xDc",
-            "ratio": 0.45,
-            "date": "2022:02:25 20:45:51",
-            "location": "Solusi Coffee & Resto, Batam",
-            "locationUrl": "https://goo.gl/maps/g2Ud98nQd5sieWAA6"
-        },
-        {
-            "fileName": "IMG_0082.jpeg",
-            "url": "http://drive.google.com/uc?export=view&id=1QVHlNc1IGac5jyjwccXiqoRGhyONWCxF",
-            "ratio": 0.75,
-            "date": "2021:05:09 12:51:57",
-            "location": "Genki Sushi, Batam",
-            "locationUrl": "https://goo.gl/maps/CYGsh9YC48tn1cAh8"
-        },
-        {
-            "fileName": "20210416_200253.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1Qfyh-7hd3p0UtVAJmjsEUWGfEHvvIy_9",
-            "ratio": 0.75,
-            "date": "2021:04:16 20:02:53",
-            "location": "Sushi Tei, Batam",
-            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
-        },
-        {
-            "fileName": "20211002_112118.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1QvWBJeVk7LHL__LFN0vAeLV1V-rgnUXy",
-            "ratio": 0.75,
-            "date": "2021:10:02 11:21:18",
-            "location": "Graineat, Batam",
-            "locationUrl": "https://www.instagram.com/graineat"
-        },
-        {
-            "fileName": "20211230_083156.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1Rcc9db6_-7kNAfOlt5WjD56OX8C1xwps",
-            "ratio": 0.75,
-            "date": "2021:12:30 08:31:55",
-            "location": "Bubur Ayam Serburame, Bandung",
-            "locationUrl": "https://goo.gl/maps/67WJYN3redsqVZAv7"
-        },
-        {
-            "fileName": "20200928_083619.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1RiRWOiYy9_FEbdqRs7l4GNbM0Cyyo6NO",
-            "ratio": 0.75,
-            "date": "2020:09:28 08:36:19",
-            "location": "Kedai Kopi Aan, Batam",
-            "locationUrl": "https://goo.gl/maps/LJUqPjfCZFQhjmrR9"
-        },
-        {
-            "fileName": "20210523_121124.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1S2dvQTfDe9NBqclNbKi6WlF24bzj4qCw",
-            "ratio": 0.75,
-            "date": "2021:05:23 12:11:24",
-            "location": "Fat Boy Club, Batam",
-            "locationUrl": "https://goo.gl/maps/7okYvkHUabtVoRqV8"
-        },
-        {
-            "fileName": "20201107_132116.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1T17at53H8Q3kr0DMo_JeaMmhTtjRRoqa",
-            "ratio": 0.75,
-            "date": "2020:11:07 13:21:16",
-            "location": "O'Pempek, Batam",
-            "locationUrl": "https://www.instagram.com/opempekbatam/"
-        },
-        {
-            "fileName": "20210619_195428.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1Tp366i1Y866tBnyvthQFQYWbl6GWBjbJ",
-            "ratio": 0.75,
-            "date": "2021:06:19 19:54:28",
-            "location": "Sushi Tei, Batam",
-            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
-        },
-        {
-            "fileName": "20210718_131232.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1Uvx-ifZcqnjb-cLR6iOA4JtoK3YjpnAQ",
-            "ratio": 0.75,
-            "date": "2021:07:18 13:12:32",
-            "location": "SaladBar by HadiKitchen, Batam",
-            "locationUrl": "https://goo.gl/maps/kir5SFr2QSASqRa78"
-        },
-        {
-            "fileName": "IMG_0011.jpeg",
-            "url": "http://drive.google.com/uc?export=view&id=1W1cJVvmnLQ5ShJpizvQ_XX-Q1jSRA3zh",
-            "ratio": 0.75,
-            "date": "2021:04:13 19:32:19",
-            "location": "Fat Boy Club, Batam",
-            "locationUrl": "https://goo.gl/maps/7okYvkHUabtVoRqV8"
-        },
-        {
-            "fileName": "20200504_114429.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1W2aTBZohGwe2g6uxDnFzn7os44Nn91A9",
-            "ratio": 0.5625,
-            "date": "2020:05:04 11:44:29",
-            "location": "O'Pempek, Batam",
-            "locationUrl": "https://www.instagram.com/opempekbatam/"
-        },
-        {
-            "fileName": "20201107_131808.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1WxCgmiXwSOk1XKb6vqPhmuDWM45ZzhHx",
-            "ratio": 0.75,
-            "date": "2020:11:07 13:18:08",
-            "location": "O'Pempek, Batam",
-            "locationUrl": "https://www.instagram.com/opempekbatam/"
-        },
-        {
-            "fileName": "20211024_093744.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1WxyBS_-1prkzTA3C-vOExWoJHHBYzLp6",
-            "ratio": 0.75,
-            "date": "2021:10:24 09:37:44",
-            "location": "Sany Noodle Bar, Batam",
-            "locationUrl": "https://g.page/sanynoodlebar?share"
-        },
-        {
-            "fileName": "20200813_184604.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1XRw8Z1fcCHlxlssIPG-oddsQkA_0z3vV",
-            "ratio": 0.75,
-            "date": "2020:08:13 18:46:04",
-            "location": "Papper Lunch, Batam",
-            "locationUrl": "https://goo.gl/maps/UonACFyHB5PLPE3H7"
-        },
-        {
-            "fileName": "20210327_070016.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1XyIvEXl7iRGDPIs738tszrqSzV2FlLTG",
-            "ratio": 0.75,
-            "date": "2021:03:27 07:00:16",
-            "location": "Mie Pangsit Ci Ayen, Batam",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200911_070050.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1YIMjrmYUdibgwyq1jjFH4qpvPL9TVirV",
-            "ratio": 0.75,
-            "date": "2020:09:11 07:00:48",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200823_201048.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1YQKX3oXaJ0durZ8pYofQlkHzaGBpi_lz",
-            "ratio": 0.75,
-            "date": "2020:08:23 20:10:46",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210403_192610.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1bjDVrWzp3mXDts1i8bQWWlUUXKPafoH9",
-            "ratio": 0.75,
-            "date": "2021:04:03 19:26:10",
-            "location": "F�r Elise, Batam",
-            "locationUrl": "https://goo.gl/maps/abjJwpV6KJ38mtS87"
-        },
-        {
-            "fileName": "20210416_203758.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1cR-dYVwWa14ZshMJJvNWtlOU9XsZzAuO",
-            "ratio": 0.75,
-            "date": "2021:04:16 20:37:58",
-            "location": "Sushi Tei, Batam",
-            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
-        },
-        {
-            "fileName": "20201225_131435.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1clF7OyafXL11rRLuZx_ZZgab34FAYpNm",
-            "ratio": 0.75,
-            "date": "2020:12:25 13:14:35",
-            "location": "Nyonya Terasi, Batam",
-            "locationUrl": "https://goo.gl/maps/SAp4VcqBLtu3e5KJ7"
-        },
-        {
-            "fileName": "20200726_140050.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1dPoc9jDAOwhx_YOEF_I7L0zF7L-ZAQ1x",
-            "ratio": 1,
-            "date": "2020:07:26 14:00:50",
-            "location": "Janji Jiwa, Batam",
-            "locationUrl": "https://goo.gl/maps/SfHnsNiaEW4UAdwM9"
-        },
-        {
-            "fileName": "IMG_0014.jpeg",
-            "url": "http://drive.google.com/uc?export=view&id=1dXIUB8CSeSNtUefEjxA52PYVLVG-oiM7",
-            "ratio": 0.75,
-            "date": "2021:04:19 20:00:05",
-            "location": "Martabak AW, Batam",
-            "locationUrl": "https://goo.gl/maps/FMSNcRvUGFx83Qa9A"
-        },
-        {
-            "fileName": "20200324_161748.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1dpjpvZ14yzOG8cusPovjsv8XqRKCDvsa",
-            "ratio": 0.5625,
-            "date": "2020:03:24 16:17:48",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "IMG_5644.JPG",
-            "url": "http://drive.google.com/uc?export=view&id=1fv1czg2SzvVAoxzhCorjyc4jlXIbHUW3",
-            "ratio": 0.75,
-            "date": "2015:05:07 07:06:51",
-            "location": "Karangsambung, Kebumen",
-            "locationUrl": "https://goo.gl/maps/QDe4yZj2zoxVNwSE9"
-        },
-        {
-            "fileName": "20210618_195731.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1gECYqLvCQd5VfiWh5ccDT00xjNPXgyJ3",
-            "ratio": 0.75,
-            "date": "2021:06:18 19:57:31",
-            "location": "Tore Japanese Eatery & Coffee, Batam",
-            "locationUrl": "https://g.page/ToreJapanese?share"
-        },
-        {
-            "fileName": "IMG_0100.jpeg",
-            "url": "http://drive.google.com/uc?export=view&id=1ga2ay82hr8cuhurjy0glYZkU53EuF1sD",
-            "ratio": 0.75,
-            "date": "2021:05:14 11:11:17",
-            "location": "Veranta Cafe, Batam",
-            "locationUrl": "https://goo.gl/maps/KnR3unK7Hk7sm9Jn6"
-        },
-        {
-            "fileName": "20220131_203634.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1gsO7gUaR1WyXAJo_Gvi_thDjY0A-nD1X",
-            "ratio": 0.45,
-            "date": "2022:01:31 20:36:34",
-            "location": "Sate Jawa Asli, Batam",
-            "locationUrl": "https://goo.gl/maps/iKHxhcH3oBP8pt2U7"
-        },
-        {
-            "fileName": "20210207_063814.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1hfCX7hHYXb7TI1Mj8aARzHGWAVUbD2ED",
-            "ratio": 0.75,
-            "date": "2021:02:07 06:38:14",
-            "location": "Kedai Kopi Aan, Batam",
-            "locationUrl": "https://goo.gl/maps/LJUqPjfCZFQhjmrR9"
-        },
-        {
-            "fileName": "20210423_065017.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1ijw76-vsJ5A2gqHu2y29V98Oewx0kuZO",
-            "ratio": 0.75,
-            "date": "2021:04:23 06:50:17",
-            "location": "Ciang Hau Kopitiam, Batam",
-            "locationUrl": "https://goo.gl/maps/TEENBP32zm8iNVT16"
-        },
-        {
-            "fileName": "20211227_182153.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1ippNAOkOQ4ZydKWaRVEVsoqmIV_-dby6",
-            "ratio": 0.75,
-            "date": "2021:12:27 18:21:53",
-            "location": "Swike Karang Anyar, Bandung",
-            "locationUrl": "https://goo.gl/maps/Cs2MZccVwTqdXYep6"
-        },
-        {
-            "fileName": "20220207_190511.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1jUWsiOmYXmu8GJVWiTPdCaubjjmMiP53",
-            "ratio": 0.45,
-            "date": "2022:02:07 19:05:11",
-            "location": "Pizza Marzano, Semarang",
-            "locationUrl": "https://goo.gl/maps/SUcVQa7ohDFRpPBHA"
-        },
-        {
-            "fileName": "20201108_193442.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1jkc9uTJNPK4YvrSJub5_KoPvkMU9__vu",
-            "ratio": 0.75,
-            "date": "2020:11:08 19:34:42",
-            "location": "Hangout Cafe & Bar, Batam",
-            "locationUrl": "https://g.page/hangout-cafe-bar?share"
-        },
-        {
-            "fileName": "20210605_064351.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1k8i59iQTfAUMIa_vkRqnqtMIgetspouj",
-            "ratio": 0.75,
-            "date": "2021:06:05 06:43:51",
-            "location": "Mie Ayam Pangsit Bangka, Batam",
-            "locationUrl": "https://goo.gl/maps/NopWzTaN8qdiaVTh9"
-        },
-        {
-            "fileName": "20211230_083140.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1k9s57f0WQV5CF-7qEjc5V_GjE7kBPFbs",
-            "ratio": 0.75,
-            "date": "2021:12:30 08:31:39",
-            "location": "Bubur Ayam Serburame, Bandung",
-            "locationUrl": "https://goo.gl/maps/67WJYN3redsqVZAv7"
-        },
-        {
-            "fileName": "20211020_193808.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1kiRTyGoUu55KK5Q1EoC5syDUaOS13m9i",
-            "ratio": 0.75,
-            "date": "2021:10:20 19:38:07",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20201107_065321.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1ldCh-I44-1RfU61t2hvLKhNlzvHekHbG",
-            "ratio": 0.75,
-            "date": "2020:11:07 06:53:21",
-            "location": "Ciang Hau Kopitiam, Batam",
-            "locationUrl": "https://goo.gl/maps/TEENBP32zm8iNVT16"
-        },
-        {
-            "fileName": "20210502_212544.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1loUD6crhOT1Etnu6wV0cdB_GGw23Az0I",
-            "ratio": 0.75,
-            "date": "2021:05:02 21:25:44",
-            "location": "Acia Ikan Bakar, Batam",
-            "locationUrl": "https://goo.gl/maps/ZjNeWKF7CuCqj1XH6"
-        },
-        {
-            "fileName": "20210107_185751.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1n5ChwVf8yyQDDtgJDXzLhZIjrcCki6pt",
-            "ratio": 0.75,
-            "date": "2021:01:07 18:57:51",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20211107_195514.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1nmUd9Z6cmgYsNfZNahM8De6_Go8fPGsP",
-            "ratio": 0.75,
-            "date": "2021:11:07 19:55:13",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210425_130817.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1o3-VRznl6jHiw1pf1e3iJN4RZZ5ryxuK",
-            "ratio": 0.75,
-            "date": "2021:04:25 13:08:17",
-            "location": "Dum Dum Thai Tea, Batam",
-            "locationUrl": "https://goo.gl/maps/FJDyZbHrZbb3Ph6E6"
-        },
-        {
-            "fileName": "20220212_180831.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1pbn-VqTxomQpaGQ8JRA20ImYgZHILSUk",
-            "ratio": 0.45,
-            "date": "2022:02:12 18:08:32",
-            "location": "Bebek & Ayam Goreng Sari Asli, Kartasura",
-            "locationUrl": "https://goo.gl/maps/gHh8tQ2nhGWBwaSr9"
-        },
-        {
-            "fileName": "20201121_000527.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1pnMnuobkxeFck32flKqL019b1LWPKRTS",
-            "ratio": 0.75,
-            "date": "2020:11:21 00:05:27",
-            "location": "Petite Pastry, Batam",
-            "locationUrl": "https://goo.gl/maps/Vtd3nRxv4fg8r7tL6"
-        },
-        {
-            "fileName": "20210329_133800.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1q5B-eKcLKAb-ooQ3pjZsELJ3WuLOYfF6",
-            "ratio": 0.75,
-            "date": "2021:03:29 13:38:00",
-            "location": "Hollypork, Batam",
-            "locationUrl": "https://www.instagram.com/holly.pork"
-        },
-        {
-            "fileName": "20210706_132645.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1qYUIqcGiiCLWjeetikKCnvzjzIa7mXEP",
-            "ratio": 0.75,
-            "date": "2021:07:06 13:26:45",
-            "location": "Graineat, Batam",
-            "locationUrl": "https://www.instagram.com/graineat"
-        },
-        {
-            "fileName": "20210619_200053.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1qdvT7KNbGKZBWhT_RDk9-rpa5sDk8w7R",
-            "ratio": 0.75,
-            "date": "2021:06:19 20:00:53",
-            "location": "Sushi Tei, Batam",
-            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
-        },
-        {
-            "fileName": "20211212_215115.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1r8tNuY7sFtOpfWB_mwDa16iCV3YpGErp",
-            "ratio": 0.75,
-            "date": "2021:12:12 21:51:14",
-            "location": "Hola Pizza, Batam",
-            "locationUrl": "https://g.page/thehillsbatam?share"
-        },
-        {
-            "fileName": "20210416_200040.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1rh7-GyQeB-dRXn4yKZ8xzRfQd9_Jgeto",
-            "ratio": 0.75,
-            "date": "2021:04:16 20:00:40",
-            "location": "Sushi Tei, Batam",
-            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
-        },
-        {
-            "fileName": "20210320_122553.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1rrdV02cdL13G-Y3yL4VbXfF0HxkFf2AT",
-            "ratio": 0.75,
-            "date": "2021:03:20 12:25:53",
-            "location": "Fat Boy Club, Batam",
-            "locationUrl": "https://goo.gl/maps/7okYvkHUabtVoRqV8"
-        },
-        {
-            "fileName": "20201107_132104.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1sAva2ErE59Cn6LqgwUQSzsqGhl1J9XfY",
-            "ratio": 0.75,
-            "date": "2020:11:07 13:21:04",
-            "location": "O'Pempek, Batam",
-            "locationUrl": "https://www.instagram.com/opempekbatam/"
-        },
-        {
-            "fileName": "20210620_160029.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1srwYEEIYU121HGM5s2VgA4Bo6LtdTJwc",
-            "ratio": 0.75,
-            "date": "2021:06:20 16:00:29",
-            "location": "Dae Jang Geum, Batam",
-            "locationUrl": "https://goo.gl/maps/Ag2f7qYGfogH1Q1t5"
-        },
-        {
-            "fileName": "20220131_203630.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1tO6WZp7khqLhyME7GWSDQ37LSEHAdqe_",
-            "ratio": 0.45,
-            "date": "2022:01:31 20:36:30",
-            "location": "Sate Jawa Asli, Batam",
-            "locationUrl": "https://goo.gl/maps/iKHxhcH3oBP8pt2U7"
-        },
-        {
-            "fileName": "IMG_0102.jpeg",
-            "url": "http://drive.google.com/uc?export=view&id=1tpiZGEeTVQRR0YgnjYw-TW2Jsl8PIfGE",
-            "ratio": 0.75,
-            "date": "2021:05:14 11:26:00",
-            "location": "Veranta Cafe, Batam",
-            "locationUrl": "https://goo.gl/maps/KnR3unK7Hk7sm9Jn6"
-        },
-        {
-            "fileName": "20210122_065310.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1uPleYzADIBC0KcpmL_M70wHfIIVudqn0",
-            "ratio": 0.75,
-            "date": "2021:01:22 06:53:10",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20201106_065439.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1uWzOZg18Ip18aEyAlLoAE1qunnyEuXYK",
-            "ratio": 0.75,
-            "date": "2020:11:06 06:54:39",
-            "location": "Ciang Hau Kopitiam, Batam",
-            "locationUrl": "https://goo.gl/maps/TEENBP32zm8iNVT16"
         },
         {
             "fileName": "20210822_140939.jpg",
             "url": "http://drive.google.com/uc?export=view&id=1vv-IMVnWW690axZ2TCr4D2YWdvSDPhmZ",
             "ratio": 0.75,
-            "date": "2021:08:22 14:09:39",
             "location": "Ruang Mula, Batam",
             "locationUrl": "https://goo.gl/maps/GEbzk1W5EpRFG4HQ7"
-        },
-        {
-            "fileName": "20201107_131944.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1wxNklHgLDZV3ZZrKOi5QB49Wh3kjIZ0t",
-            "ratio": 0.75,
-            "date": "2020:11:07 13:19:44",
-            "location": "O'Pempek, Batam",
-            "locationUrl": "https://www.instagram.com/opempekbatam/"
-        },
-        {
-            "fileName": "20201025_173621.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1xmlV-ef40Ur8bApvOTuWmL6yR8ddB7lT",
-            "ratio": 0.75,
-            "date": "2020:10:25 17:36:19",
-            "location": "Waffle Co, Batam",
-            "locationUrl": "https://goo.gl/maps/Z56pwN88SnA4ajo56"
-        },
-        {
-            "fileName": "20220117_194120.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1yKTkGPSlsiPYt6eehqVFKMRHy6wqETRy",
-            "ratio": 0.45,
-            "date": "2022:01:17 19:41:20",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20200221_064216.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1yLAs7AbEyWXDg9vAHaEeKz97HLH4tXH5",
-            "ratio": 0.5625,
-            "date": "2020:02:21 06:42:16",
-            "location": "Mie Ayam Pangsit Bangka, Batam",
-            "locationUrl": "https://goo.gl/maps/NopWzTaN8qdiaVTh9"
         },
         {
             "fileName": "20210820_182843.jpg",
             "url": "http://drive.google.com/uc?export=view&id=1zfueI4wjpjAN_Q1bV2XvnI8kEXaEpUoy",
             "ratio": 0.75,
-            "date": "2021:08:20 18:28:43",
             "location": "SaladBar by HadiKitchen, Batam",
             "locationUrl": "https://goo.gl/maps/kir5SFr2QSASqRa78"
+        },
+        {
+            "fileName": "20210718_131232.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1Uvx-ifZcqnjb-cLR6iOA4JtoK3YjpnAQ",
+            "ratio": 0.75,
+            "location": "SaladBar by HadiKitchen, Batam",
+            "locationUrl": "https://goo.gl/maps/kir5SFr2QSASqRa78"
+        },
+        {
+            "fileName": "20210706_132645.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1qYUIqcGiiCLWjeetikKCnvzjzIa7mXEP",
+            "ratio": 0.75,
+            "location": "Graineat, Batam",
+            "locationUrl": "https://www.instagram.com/graineat"
+        },
+        {
+            "fileName": "20210623_104444.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=18h1Pfxav-pP-_WO5vFJixCaqD3Nedk1A",
+            "ratio": 0.75,
+            "location": "Sela� Jam, Jakarta",
+            "locationUrl": "https://www.instagram.com/selae.id/"
+        },
+        {
+            "fileName": "20210620_160029.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1srwYEEIYU121HGM5s2VgA4Bo6LtdTJwc",
+            "ratio": 0.75,
+            "location": "Dae Jang Geum, Batam",
+            "locationUrl": "https://goo.gl/maps/Ag2f7qYGfogH1Q1t5"
+        },
+        {
+            "fileName": "20210619_200129.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1Nk_8MwAYMKtsr8QuM9r7HoPHXzQo-mPN",
+            "ratio": 1.333333333,
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "20210619_200111.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=17peJPENOKfYKw9DjquLWA9nCvq_feeXW",
+            "ratio": 0.75,
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "20210619_200053.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1qdvT7KNbGKZBWhT_RDk9-rpa5sDk8w7R",
+            "ratio": 0.75,
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "20210619_195428.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1Tp366i1Y866tBnyvthQFQYWbl6GWBjbJ",
+            "ratio": 0.75,
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "20210618_195731.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1gECYqLvCQd5VfiWh5ccDT00xjNPXgyJ3",
+            "ratio": 0.75,
+            "location": "Tore Japanese Eatery & Coffee, Batam",
+            "locationUrl": "https://g.page/ToreJapanese?share"
         },
         {
             "fileName": "20210618_195717.jpg",
             "url": "http://drive.google.com/uc?export=view&id=1FJGwygS48TBYeESXaXDDeNhskzNH5F16",
             "ratio": 0.75,
-            "date": "2021:06:18 19:57:17",
-            "location": "Tore Japanese Eatery & Coffee, Batam",
-            "locationUrl": "https://g.page/ToreJapanese?share"
-        },
-        {
-            "fileName": "20220211_174254.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1FLsN48mSXTJJA-AD5dSSDfX_knFEoIQF",
-            "ratio": 0.45,
-            "date": "2022:02:11 17:42:54",
-            "location": "Gudeg Bu Hj. Ahmad, Yogyakarta",
-            "locationUrl": "https://goo.gl/maps/W82AYzkAwwE49E156"
-        },
-        {
-            "fileName": "20201107_131922.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1N4yT53bIsIhFlxgniHSnll42Or5gHtZ0",
-            "ratio": 0.75,
-            "date": "2020:11:07 13:19:22",
-            "location": "O'Pempek, Batam",
-            "locationUrl": "https://www.instagram.com/opempekbatam/"
-        },
-        {
-            "fileName": "20220211_143507.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1cQ-s0o2ApLRjQGKWZ26ykHMS3qtfKN6c",
-            "ratio": 0.45,
-            "date": "2022:02:11 14:35:08",
-            "location": "Tempo Gelato, Yogyakarta",
-            "locationUrl": "https://g.page/tempo-gelato-kaliurang?share"
-        },
-        {
-            "fileName": "20201106_065500.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1duJYOJrqw7ABSQIjDjUXlnY7tGSIf9K-",
-            "ratio": 0.75,
-            "date": "2020:11:06 06:55:00",
-            "location": "Ciang Hau Kopitiam, Batam",
-            "locationUrl": "https://goo.gl/maps/TEENBP32zm8iNVT16"
-        },
-        {
-            "fileName": "20200821_204709.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1eNx2HrVRxN3njXoFCa9wHB7sj_ik37SF",
-            "ratio": 0.75,
-            "date": "2020:08:21 20:47:06",
-            "location": "Acia Ikan Bakar, Batam",
-            "locationUrl": "https://goo.gl/maps/ZjNeWKF7CuCqj1XH6"
-        },
-        {
-            "fileName": "20200723_144314.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1j9k5_e5WI6-LYsuiGEDVxITCjwWMG1Y7",
-            "ratio": 0.75,
-            "date": "2020:07:23 14:43:11",
-            "location": "",
-            "locationUrl": ""
-        },
-        {
-            "fileName": "20210618_195502.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1qnGC_OkfOuNCHk2cXYw3H6tA-Hrp_j77",
-            "ratio": 0.75,
-            "date": "2021:06:18 19:55:02",
             "location": "Tore Japanese Eatery & Coffee, Batam",
             "locationUrl": "https://g.page/ToreJapanese?share"
         },
@@ -2282,119 +878,930 @@
             "fileName": "20210618_195647.jpg",
             "url": "http://drive.google.com/uc?export=view&id=1t7Gq0fj440sCF3c6iVG7yN_P7_8JJ4mQ",
             "ratio": 0.75,
-            "date": "2021:06:18 19:56:47",
             "location": "Tore Japanese Eatery & Coffee, Batam",
             "locationUrl": "https://g.page/ToreJapanese?share"
         },
         {
-            "fileName": "IMG_4963.jpeg",
-            "url": "http://drive.google.com/uc?export=view&id=1wZJrNjI0WgC73e0pPBCjDIzDIjlinBYb",
+            "fileName": "20210618_195502.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1qnGC_OkfOuNCHk2cXYw3H6tA-Hrp_j77",
             "ratio": 0.75,
-            "date": "2016:11:06 12:13:54",
+            "location": "Tore Japanese Eatery & Coffee, Batam",
+            "locationUrl": "https://g.page/ToreJapanese?share"
+        },
+        {
+            "fileName": "20210618_195005.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=19eW_99REfvjlwb02yJt__KVzsD_h5kgB",
+            "ratio": 0.75,
+            "location": "Tore Japanese Eatery & Coffee, Batam",
+            "locationUrl": "https://g.page/ToreJapanese?share"
+        },
+        {
+            "fileName": "20210616_190834.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1n3NAn-hzVamk8UXGI6LtYVq3UNvZtOyS",
+            "ratio": 1.333333333,
+            "location": "Bakmi GM, Bandara Soekarno Hatta",
+            "locationUrl": "https://goo.gl/maps/83UhDM33DjCdqxPL9"
+        },
+        {
+            "fileName": "20210613_151530.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=137CNVV7M5MUTu57H6dPsemQvEsvEFNBH",
+            "ratio": 0.75,
+            "location": "F�r Elise, Batam",
+            "locationUrl": "https://goo.gl/maps/abjJwpV6KJ38mtS87"
+        },
+        {
+            "fileName": "20210613_143447.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1HRJpiZIVni_jX9KrqahDtaLZY8gTMoZz",
+            "ratio": 1.333333333,
             "location": "",
             "locationUrl": ""
         },
         {
-            "fileName": "20200114_192338.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1-6gtSRVSmmD4H-d8ohwD9C-dhVcMd8rp",
-            "ratio": 0.5625,
-            "date": "2020:01:14 19:23:38",
+            "fileName": "20210613_142509.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1dJsipdp34vRYHxhGuNseEY9Pek_1z3kn",
+            "ratio": 1.333333333,
+            "location": "Nagoya Foodcourt, Batam",
+            "locationUrl": "https://goo.gl/maps/4RksyXhpdASSjniu5"
+        },
+        {
+            "fileName": "20210613_070226.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=10CnTO8kfwHM-QNj0lJxVQeg9bMInpB_p",
+            "ratio": 1.333333333,
+            "location": "Kedai Kopi Harum Manis, Batam",
+            "locationUrl": "https://goo.gl/maps/bJYoZQ7c1rZAFYqq8"
+        },
+        {
+            "fileName": "20210606_181829.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1QYziAojTT6FVAgl917EhPLC8UfD9pS3q",
+            "ratio": 1.333333333,
+            "location": "Hongti Seafood, Batam",
+            "locationUrl": "https://g.page/hongti-seafood?share"
+        },
+        {
+            "fileName": "20210606_181816.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1pLjY-gjjUb8AAxem0ExzNWwQFsnfWUl4",
+            "ratio": 1.333333333,
+            "location": "Hongti Seafood, Batam",
+            "locationUrl": "https://g.page/hongti-seafood?share"
+        },
+        {
+            "fileName": "20210606_181809.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=13c80N-QR6vN5x0Z8MNlIbpkOXzXMGQwZ",
+            "ratio": 1.333333333,
+            "location": "Hongti Seafood, Batam",
+            "locationUrl": "https://g.page/hongti-seafood?share"
+        },
+        {
+            "fileName": "20210606_181800.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1ssQTI8Ixeh23Fm6eyGw4WFeQawtDdcb9",
+            "ratio": 1.333333333,
+            "location": "Hongti Seafood, Batam",
+            "locationUrl": "https://g.page/hongti-seafood?share"
+        },
+        {
+            "fileName": "20210606_181744.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1uafqgzpF7zoIaKzznhNM2o29BEW7AQNT",
+            "ratio": 1.333333333,
+            "location": "Hongti Seafood, Batam",
+            "locationUrl": "https://g.page/hongti-seafood?share"
+        },
+        {
+            "fileName": "20210605_064351.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1k8i59iQTfAUMIa_vkRqnqtMIgetspouj",
+            "ratio": 0.75,
+            "location": "Mie Ayam Pangsit Bangka, Batam",
+            "locationUrl": "https://goo.gl/maps/NopWzTaN8qdiaVTh9"
+        },
+        {
+            "fileName": "20210604_194553.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1Mvh-eWk93Z3jvXxEPgWIlBuR3XWfzdic",
+            "ratio": 1.333333333,
+            "location": "Ramen Ten 10, Batam",
+            "locationUrl": "https://goo.gl/maps/mLGVwDqj61HsmdfN8"
+        },
+        {
+            "fileName": "20210530_095002.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1qxetigvMTRibSeFgMqVznq2MnRZNw6Mp",
+            "ratio": 1.333333333,
             "location": "",
             "locationUrl": ""
         },
         {
-            "fileName": "20190520_105535.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1-YM6rw6hlEYU5RG-Ku_0f4m-LWvDue6t",
-            "ratio": 0.5625,
-            "date": "2019:05:20 10:55:35",
-            "location": "Swee Choon Tim Sum Restaurant, Singapore",
-            "locationUrl": "https://goo.gl/maps/FG2GStSHDTybKVi56"
+            "fileName": "20210529_202509.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1pNhgRaqV9psVeU4r4qk_7qAwaXqNOLKi",
+            "ratio": 1.333333333,
+            "location": "Bakmi Jawa Gunungkidul JOGOBOYO, Batam",
+            "locationUrl": "https://goo.gl/maps/UtWYJvcECaLmvMBx7"
         },
         {
-            "fileName": "20200105_190451.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1-pVrQrNTRciUr5BjFXwLBKaNlKeSoaPF",
-            "ratio": 0.5625,
-            "date": "2020:01:05 19:04:51",
+            "fileName": "20210526_073211.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1Iqv4wXKo6EwoplFl9yKZUzEUB_8yIGn_",
+            "ratio": 0.75,
+            "location": "Kwetiau Liang, Batam",
+            "locationUrl": "https://goo.gl/maps/VP9ijr1ZuFHuNP2z6"
+        },
+        {
+            "fileName": "20210523_121124.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1S2dvQTfDe9NBqclNbKi6WlF24bzj4qCw",
+            "ratio": 0.75,
+            "location": "Fat Boy Club, Batam",
+            "locationUrl": "https://goo.gl/maps/7okYvkHUabtVoRqV8"
+        },
+        {
+            "fileName": "202105145.jpeg",
+            "url": "http://drive.google.com/uc?export=view&id=14YoCr5_xH6lz7dh856br3b3O27X0zOEb",
+            "ratio": 1.333333333,
             "location": "",
             "locationUrl": ""
         },
         {
-            "fileName": "20200126_192829.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=15hVJGUegt-J7TW5fuAZ4SUVgyOetaYl-",
-            "ratio": 0.5625,
-            "date": "2020:01:26 19:28:29",
+            "fileName": "202105144.jpeg",
+            "url": "http://drive.google.com/uc?export=view&id=1LGkxt7zjgGu4UcdVdSkaPKNd2LP_IRen",
+            "ratio": 0.75,
+            "location": "Veranta Cafe, Batam",
+            "locationUrl": "https://goo.gl/maps/KnR3unK7Hk7sm9Jn6"
+        },
+        {
+            "fileName": "2021051431.jpeg",
+            "url": "http://drive.google.com/uc?export=view&id=1tpiZGEeTVQRR0YgnjYw-TW2Jsl8PIfGE",
+            "ratio": 0.75,
+            "location": "Veranta Cafe, Batam",
+            "locationUrl": "https://goo.gl/maps/KnR3unK7Hk7sm9Jn6"
+        },
+        {
+            "fileName": "202105143.jpeg",
+            "url": "http://drive.google.com/uc?export=view&id=1ffmeOnU--EMSzNdctj-c-VCBJIcIJ421",
+            "ratio": 1,
+            "location": "Veranta Cafe, Batam",
+            "locationUrl": "https://goo.gl/maps/KnR3unK7Hk7sm9Jn9"
+        },
+        {
+            "fileName": "2021051421.jpeg",
+            "url": "http://drive.google.com/uc?export=view&id=1ga2ay82hr8cuhurjy0glYZkU53EuF1sD",
+            "ratio": 0.75,
+            "location": "Veranta Cafe, Batam",
+            "locationUrl": "https://goo.gl/maps/KnR3unK7Hk7sm9Jn6"
+        },
+        {
+            "fileName": "202105142.jpeg",
+            "url": "http://drive.google.com/uc?export=view&id=19_0LjTKiWoa9JJRBWhapeBTCgjvZJVaf",
+            "ratio": 1,
+            "location": "Veranta Cafe, Batam",
+            "locationUrl": "https://goo.gl/maps/KnR3unK7Hk7sm9Jn6"
+        },
+        {
+            "fileName": "2021051412.jpeg",
+            "url": "http://drive.google.com/uc?export=view&id=14w7elKqmtvzFXosOZpce_MjK2VYUBbcP",
+            "ratio": 0.75,
+            "location": "Veranta Cafe, Batam",
+            "locationUrl": "https://goo.gl/maps/KnR3unK7Hk7sm9Jn6"
+        },
+        {
+            "fileName": "202105141.jpeg",
+            "url": "http://drive.google.com/uc?export=view&id=1xHsvKpWyfOXoCzPG9ZzcabEFhZrr13rq",
+            "ratio": 1,
+            "location": "Veranta Cafe, Batam",
+            "locationUrl": "https://goo.gl/maps/KnR3unK7Hk7sm9Jn8"
+        },
+        {
+            "fileName": "20210514.jpeg",
+            "url": "http://drive.google.com/uc?export=view&id=1oE7fjYncC4Qo0GTxW0k8uuv-QtPQGIXz",
+            "ratio": 1,
+            "location": "Veranta Cafe, Batam",
+            "locationUrl": "https://goo.gl/maps/KnR3unK7Hk7sm9Jn7"
+        },
+        {
+            "fileName": "20210509.jpeg",
+            "url": "http://drive.google.com/uc?export=view&id=1QVHlNc1IGac5jyjwccXiqoRGhyONWCxF",
+            "ratio": 0.75,
+            "location": "Genki Sushi, Batam",
+            "locationUrl": "https://goo.gl/maps/CYGsh9YC48tn1cAh8"
+        },
+        {
+            "fileName": "20210502_212544.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1loUD6crhOT1Etnu6wV0cdB_GGw23Az0I",
+            "ratio": 0.75,
+            "location": "Acia Ikan Bakar, Batam",
+            "locationUrl": "https://goo.gl/maps/ZjNeWKF7CuCqj1XH6"
+        },
+        {
+            "fileName": "20210425_130817.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1o3-VRznl6jHiw1pf1e3iJN4RZZ5ryxuK",
+            "ratio": 0.75,
+            "location": "Dum Dum Thai Tea, Batam",
+            "locationUrl": "https://goo.gl/maps/FJDyZbHrZbb3Ph6E6"
+        },
+        {
+            "fileName": "20210423_065017.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1ijw76-vsJ5A2gqHu2y29V98Oewx0kuZO",
+            "ratio": 0.75,
+            "location": "Ciang Hau Kopitiam, Batam",
+            "locationUrl": "https://goo.gl/maps/TEENBP32zm8iNVT16"
+        },
+        {
+            "fileName": "20210419.jpeg",
+            "url": "http://drive.google.com/uc?export=view&id=1dXIUB8CSeSNtUefEjxA52PYVLVG-oiM7",
+            "ratio": 0.75,
+            "location": "Martabak AW, Batam",
+            "locationUrl": "https://goo.gl/maps/FMSNcRvUGFx83Qa9A"
+        },
+        {
+            "fileName": "20210416_203758.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1cR-dYVwWa14ZshMJJvNWtlOU9XsZzAuO",
+            "ratio": 0.75,
             "location": "Sushi Tei, Batam",
             "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
         },
         {
-            "fileName": "20200123_195554.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=15pNpxcKsjfGANJIjnsFbI0Szr8bJDSy4",
-            "ratio": 0.5625,
-            "date": "2020:01:23 19:55:54",
-            "location": "Martabak 818, Batam",
-            "locationUrl": "https://goo.gl/maps/uYAV3sEDmcBS4eJx7"
-        },
-        {
-            "fileName": "20190804_173401.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=15wpC7X4lqeIbI6gthZC1eZpdII87WUYp",
-            "ratio": 0.5625,
-            "date": "2019:08:04 17:34:01",
+            "fileName": "20210416_200301.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1FFCuQgVWM_WEjaoWr4lDMqhcnPvbJoA-",
+            "ratio": 1.333333333,
             "location": "Sushi Tei, Batam",
             "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
         },
         {
-            "fileName": "20200105_190443.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=17MWf6UCwJ7x_z8ijA6oqnNNfD6vwYl8Z",
-            "ratio": 0.5625,
-            "date": "2020:01:05 19:04:42",
+            "fileName": "20210416_200253.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1Qfyh-7hd3p0UtVAJmjsEUWGfEHvvIy_9",
+            "ratio": 0.75,
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "20210416_200051.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1NPQU3Ulasc6niX27NAbO5Jz1ycXniVNj",
+            "ratio": 1.333333333,
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "20210416_200040.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1rh7-GyQeB-dRXn4yKZ8xzRfQd9_Jgeto",
+            "ratio": 0.75,
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "20210416_200028.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1jBYYAfYRMusaqoFx8iGerOnV62tMg6l9",
+            "ratio": 1.333333333,
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "20210416_200020.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1JzdTn1yU4VUv8Mxoemdd9wRr4SaOJGSA",
+            "ratio": 1.333333333,
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "20210416_200013.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1PHDcAbbk4_N5An5l_BW3eD54WSSBG8mo",
+            "ratio": 1.333333333,
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "20210416_200004.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1aNqmV7m8Xl1Il-NecnN7ZexEKuUgb8K6",
+            "ratio": 1.333333333,
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "20210416_195956.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1DUjpMpxBFm-8xQ_A5HrTD6_ST0QXtxNN",
+            "ratio": 1.333333333,
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "202104132.jpeg",
+            "url": "http://drive.google.com/uc?export=view&id=19sx6_YNDBz77Eq0gscPPnMiFDZ8j4xdR",
+            "ratio": 0.75,
+            "location": "Fat Boy Club, Batam",
+            "locationUrl": "https://goo.gl/maps/7okYvkHUabtVoRqV8"
+        },
+        {
+            "fileName": "202104131.jpeg",
+            "url": "http://drive.google.com/uc?export=view&id=1W1cJVvmnLQ5ShJpizvQ_XX-Q1jSRA3zh",
+            "ratio": 0.75,
+            "location": "Fat Boy Club, Batam",
+            "locationUrl": "https://goo.gl/maps/7okYvkHUabtVoRqV8"
+        },
+        {
+            "fileName": "20210408_124759.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=18n4dq7gpO6hgeb076LoiOYKmydp3homM",
+            "ratio": 1,
             "location": "",
             "locationUrl": ""
         },
         {
-            "fileName": "20190701_212404.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1EgVTbPwrRsyI7Be7W6N7ruPJEMTYaLpw",
-            "ratio": 0.5625,
-            "date": "2019:07:01 21:24:04",
+            "fileName": "20210403_192610.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1bjDVrWzp3mXDts1i8bQWWlUUXKPafoH9",
+            "ratio": 0.75,
+            "location": "F�r Elise, Batam",
+            "locationUrl": "https://goo.gl/maps/abjJwpV6KJ38mtS87"
+        },
+        {
+            "fileName": "20210331_075213.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1FJ_wKSfXI5qvbUyOKf9mvEans20S4kEZ",
+            "ratio": 1.333333333,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20210329_133800.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1q5B-eKcLKAb-ooQ3pjZsELJ3WuLOYfF6",
+            "ratio": 0.75,
+            "location": "Hollypork, Batam",
+            "locationUrl": "https://www.instagram.com/holly.pork"
+        },
+        {
+            "fileName": "20210327_070016.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1XyIvEXl7iRGDPIs738tszrqSzV2FlLTG",
+            "ratio": 0.75,
+            "location": "Mie Pangsit Ci Ayen, Batam",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20210321_071406.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=10Qw2xWDw82m8q3zpmQxucDQZp02Spx1O",
+            "ratio": 1.333333333,
+            "location": "Kedai Kopi Aan, Batam",
+            "locationUrl": "https://goo.gl/maps/LJUqPjfCZFQhjmrR9"
+        },
+        {
+            "fileName": "20210320_122553.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1rrdV02cdL13G-Y3yL4VbXfF0HxkFf2AT",
+            "ratio": 0.75,
+            "location": "Fat Boy Club, Batam",
+            "locationUrl": "https://goo.gl/maps/7okYvkHUabtVoRqV8"
+        },
+        {
+            "fileName": "20210318_063549.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1wM4TlVLgUMZKqdpEO2gmUUZBrOzRRn1v",
+            "ratio": 1.333333333,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20210313_202436.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1u5ebk0V6FvJ8LY45DsVZ2gw9aaRra-R2",
+            "ratio": 1.333333333,
+            "location": "Ta Wan Restaurant, Batam",
+            "locationUrl": "https://goo.gl/maps/xSiG8SdaqMZGN3A57"
+        },
+        {
+            "fileName": "20210311_181546.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1YThzL0RaQMO2Zdh-pzgz12htSkR8m6ka",
+            "ratio": 1.333333333,
+            "location": "Jumbo Thai Kitchen, Batam",
+            "locationUrl": "https://goo.gl/maps/Q1rivBjGBeA7RkQLA"
+        },
+        {
+            "fileName": "20210308_070958.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=19iJcViwVQHxst4jDR3oAz9VweDyyYHsV",
+            "ratio": 0.75,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20210307_195100.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=17rv4Vw45DD4mBs__C-Ul_fsZtAV7-cHk",
+            "ratio": 0.75,
+            "location": "Citra Pempek, Batam",
+            "locationUrl": "https://goo.gl/maps/S8UTUG3SZp46GYNSA"
+        },
+        {
+            "fileName": "20210306_163824.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=110x4RmVu70NJuAIMzEWULOio37BHH7od",
+            "ratio": 0.75,
+            "location": "Petite Pastry, Batam",
+            "locationUrl": "https://goo.gl/maps/Vtd3nRxv4fg8r7tL6"
+        },
+        {
+            "fileName": "20210306_072229.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1ER7RNig8A8giAXNtd-6fGZFEzw_htPTE",
+            "ratio": 1.333333333,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20210213_081923.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1Bx22jZR8szFhigptvyfa2occpap7nbmf",
+            "ratio": 0.75,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20210207_063814.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1hfCX7hHYXb7TI1Mj8aARzHGWAVUbD2ED",
+            "ratio": 0.75,
+            "location": "Kedai Kopi Aan, Batam",
+            "locationUrl": "https://goo.gl/maps/LJUqPjfCZFQhjmrR9"
+        },
+        {
+            "fileName": "20210205_200315.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1D2PS-sZv5NCOTbig74weVK61wrlgnx-i",
+            "ratio": 1.333333333,
+            "location": "Pepper Lunch, Batam",
+            "locationUrl": "https://goo.gl/maps/UonACFyHB5PLPE3H7"
+        },
+        {
+            "fileName": "20210205_200154.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1yPRdT-WOh67kgsJHNveW7cEfYnS7i9yD",
+            "ratio": 1.333333333,
+            "location": "Pepper Lunch, Batam",
+            "locationUrl": "https://goo.gl/maps/UonACFyHB5PLPE3H7"
+        },
+        {
+            "fileName": "20210129_201522.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=18Ph0aBiEhoXYbTRE3CJapeRhh8EmlJao",
+            "ratio": 1.333333333,
+            "location": "Kimukatsu, Batam",
+            "locationUrl": "https://goo.gl/maps/C1gWLyp8vf98vKPL9"
+        },
+        {
+            "fileName": "20210129_201329.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1Iid33HnyX1DwxGZ1OMg58NOZPz0KeSkW",
+            "ratio": 1.333333333,
+            "location": "Kimukatsu, Batam",
+            "locationUrl": "https://goo.gl/maps/C1gWLyp8vf98vKPL9"
+        },
+        {
+            "fileName": "20210129_201316.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1C3Dlt1R_uUfMIXy6-oHjKiiDPRJaXWLG",
+            "ratio": 1.333333333,
+            "location": "Kimukatsu, Batam",
+            "locationUrl": "https://goo.gl/maps/C1gWLyp8vf98vKPL9"
+        },
+        {
+            "fileName": "20210129_201251.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1SROr6rr7wzNJuw-Eu7owpRnXPmdq-hDt",
+            "ratio": 1.333333333,
+            "location": "Kimukatsu, Batam",
+            "locationUrl": "https://goo.gl/maps/C1gWLyp8vf98vKPL9"
+        },
+        {
+            "fileName": "20210129_201236.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1GK2ey0IK7SSnKrzamWqxAGHXp-5FOecV",
+            "ratio": 1.333333333,
+            "location": "Kimukatsu, Batam",
+            "locationUrl": "https://goo.gl/maps/C1gWLyp8vf98vKPL9"
+        },
+        {
+            "fileName": "20210129_200354.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=12s5OnbiwXPiSv_989NX7PztNU4h8k53C",
+            "ratio": 0.75,
+            "location": "Kimukatsu, Batam",
+            "locationUrl": "https://goo.gl/maps/C1gWLyp8vf98vKPL9"
+        },
+        {
+            "fileName": "20210123_064234.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1lLLAa3Z-dfzGROUlogThVvVlRTtiJ5us",
+            "ratio": 1.333333333,
+            "location": "Kedai Kopi Aan, Batam",
+            "locationUrl": "https://goo.gl/maps/LJUqPjfCZFQhjmrR9"
+        },
+        {
+            "fileName": "20210122_065310.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1uPleYzADIBC0KcpmL_M70wHfIIVudqn0",
+            "ratio": 0.75,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20210111_202350.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1SKC16TBJaeN-zzBpYUARf-qbnR1Aixvf",
+            "ratio": 1.333333333,
+            "location": "Port House Resto & Bar, Batam",
+            "locationUrl": "https://g.page/Port-House-Batam?share"
+        },
+        {
+            "fileName": "20210111_194616.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1NFt5Wqbv5kRda_Vk5olsiTLw2eNleqsQ",
+            "ratio": 0.75,
+            "location": "Port House Resto & Bar, Batam",
+            "locationUrl": "https://g.page/Port-House-Batam?share"
+        },
+        {
+            "fileName": "20210111_194549.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1z0WPOHNDbsGEkxDEcSSrARBRHaJbHSX7",
+            "ratio": 1.333333333,
+            "location": "Port House Resto & Bar, Batam",
+            "locationUrl": "https://g.page/Port-House-Batam?share"
+        },
+        {
+            "fileName": "20210111_194511.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1rVdgTNUBCs_MgYQq-bR4uG_RB2Fe7fMk",
+            "ratio": 1.333333333,
+            "location": "Port House Resto & Bar, Batam",
+            "locationUrl": "https://g.page/Port-House-Batam?share"
+        },
+        {
+            "fileName": "20210107_185751.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1n5ChwVf8yyQDDtgJDXzLhZIjrcCki6pt",
+            "ratio": 0.75,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20201225_131435.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1clF7OyafXL11rRLuZx_ZZgab34FAYpNm",
+            "ratio": 0.75,
+            "location": "Nyonya Terasi, Batam",
+            "locationUrl": "https://goo.gl/maps/SAp4VcqBLtu3e5KJ7"
+        },
+        {
+            "fileName": "20201209_201151.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1-bZU0wjxeseGi0Y-OFfO-J38LzOghTbC",
+            "ratio": 1.333333333,
+            "location": "Bakso Gunung, Batam",
+            "locationUrl": "https://goo.gl/maps/eH5NP7vBEVy61mop9"
+        },
+        {
+            "fileName": "20201206_154905.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1OewBwIMjKsqqBog1_pog0a1TY71QsDu4",
+            "ratio": 1.333333333,
+            "location": "Biscotti Cakery & Coffee, Batam",
+            "locationUrl": "https://goo.gl/maps/PaqnPGqyYqAmQ3597"
+        },
+        {
+            "fileName": "20201206_153601.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1SNmi3hPVtFwfdTzlxm3n0FFhbthuCA_W",
+            "ratio": 1.333333333,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20201121_194948.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=18KCf7ru4OrhdH2wa6UV3gWvzJ4RDr8yp",
+            "ratio": 1.333333333,
+            "location": "Teras Cafe, Batam",
+            "locationUrl": "https://goo.gl/maps/2HcdPQEnZCpFgpGb9"
+        },
+        {
+            "fileName": "20201121_000621.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1EtVYVGsgcohMn2WHNC6WC2FpuNLg_A2P",
+            "ratio": 0.75,
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "20201121_000527.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1pnMnuobkxeFck32flKqL019b1LWPKRTS",
+            "ratio": 0.75,
+            "location": "Petite Pastry, Batam",
+            "locationUrl": "https://goo.gl/maps/Vtd3nRxv4fg8r7tL6"
+        },
+        {
+            "fileName": "20201120_204219.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=15NCRQ-GkR9YPVs5ovuRXvqJMP-8J6sJU",
+            "ratio": 1.333333333,
             "location": "Waroeng Lamongan Cak Rochman, Batam",
             "locationUrl": "https://goo.gl/maps/d4oPYhk59btcajqs5"
         },
         {
-            "fileName": "20200120_194856.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1H-b8Qi7f1UIsuchJ6UukTvQWMaYt81Ll",
+            "fileName": "20201115_140807.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1OCdXN9KPNgCZGllmW5ykHGV7IJkggUGh",
+            "ratio": 1.333333333,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20201108_193510.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1qcR7QtbJw7fTmiSskKLhGEyYnjDgWASc",
+            "ratio": 1.333333333,
+            "location": "Hangout Cafe & Bar, Batam",
+            "locationUrl": "https://g.page/hangout-cafe-bar?share"
+        },
+        {
+            "fileName": "20201108_193503.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=16E-EmMAuTNomIU94SGyikhMjJ7f5Re4j",
+            "ratio": 1.333333333,
+            "location": "Hangout Cafe & Bar, Batam",
+            "locationUrl": "https://g.page/hangout-cafe-bar?share"
+        },
+        {
+            "fileName": "20201108_193454.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1MJL4IGHnfSP6ivzLTBg_j0zdTg__J_ES",
+            "ratio": 1.333333333,
+            "location": "Hangout Cafe & Bar, Batam",
+            "locationUrl": "https://g.page/hangout-cafe-bar?share"
+        },
+        {
+            "fileName": "20201108_193449.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1A07UVSpjC33vFwMyox0GboefaklFeT-r",
+            "ratio": 1.333333333,
+            "location": "Hangout Cafe & Bar, Batam",
+            "locationUrl": "https://g.page/hangout-cafe-bar?share"
+        },
+        {
+            "fileName": "20201108_193442.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1jkc9uTJNPK4YvrSJub5_KoPvkMU9__vu",
+            "ratio": 0.75,
+            "location": "Hangout Cafe & Bar, Batam",
+            "locationUrl": "https://g.page/hangout-cafe-bar?share"
+        },
+        {
+            "fileName": "20201107_132116.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1T17at53H8Q3kr0DMo_JeaMmhTtjRRoqa",
+            "ratio": 0.75,
+            "location": "O'Pempek, Batam",
+            "locationUrl": "https://www.instagram.com/opempekbatam/"
+        },
+        {
+            "fileName": "20201107_132017.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=112BF5VIXhyzBBOV_fMi0-9inA9D6wlAC",
+            "ratio": 0.75,
+            "location": "O Pempek, Batam",
+            "locationUrl": "https://www.instagram.com/opempekbatam/"
+        },
+        {
+            "fileName": "20201107_132002.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1HcxU8vYXVq_R6UP0SRVrxFGuqKNsU-4F",
+            "ratio": 0.75,
+            "location": "O'Pempek, Batam",
+            "locationUrl": "https://www.instagram.com/opempekbatam/"
+        },
+        {
+            "fileName": "20201107_131922.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1N4yT53bIsIhFlxgniHSnll42Or5gHtZ0",
+            "ratio": 0.75,
+            "location": "O'Pempek, Batam",
+            "locationUrl": "https://www.instagram.com/opempekbatam/"
+        },
+        {
+            "fileName": "20201107_131839.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1EWjrIOdQ2AswoBNXGztFrTwsvhLFyIjR",
+            "ratio": 0.75,
+            "location": "O'Pempek, Batam",
+            "locationUrl": "https://www.instagram.com/opempekbatam/"
+        },
+        {
+            "fileName": "20201107_065321.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1ldCh-I44-1RfU61t2hvLKhNlzvHekHbG",
+            "ratio": 0.75,
+            "location": "Ciang Hau Kopitiam, Batam",
+            "locationUrl": "https://goo.gl/maps/TEENBP32zm8iNVT16"
+        },
+        {
+            "fileName": "20201106_065500.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1duJYOJrqw7ABSQIjDjUXlnY7tGSIf9K-",
+            "ratio": 0.75,
+            "location": "Ciang Hau Kopitiam, Batam",
+            "locationUrl": "https://goo.gl/maps/TEENBP32zm8iNVT16"
+        },
+        {
+            "fileName": "20201106_065439.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1uWzOZg18Ip18aEyAlLoAE1qunnyEuXYK",
+            "ratio": 0.75,
+            "location": "Ciang Hau Kopitiam, Batam",
+            "locationUrl": "https://goo.gl/maps/TEENBP32zm8iNVT16"
+        },
+        {
+            "fileName": "20201029_200245.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1asu8y76T6EV1v7Ojut_WKmxe7oblrGQz",
+            "ratio": 1.333333333,
+            "location": "Ayam Penyet Ria, Batam",
+            "locationUrl": "https://goo.gl/maps/mQCP8emrw6Ct8BSv7"
+        },
+        {
+            "fileName": "20201025_173621.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1xmlV-ef40Ur8bApvOTuWmL6yR8ddB7lT",
+            "ratio": 0.75,
+            "location": "Waffle Co, Batam",
+            "locationUrl": "https://goo.gl/maps/Z56pwN88SnA4ajo56"
+        },
+        {
+            "fileName": "20201021_120140.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=16swtYEDFyxiHWSSl_TkMA5w2scAzraQY",
+            "ratio": 0.75,
+            "location": "Mie Pangsit Yuw Mie Medan, Batam",
+            "locationUrl": "https://goo.gl/maps/RdALKaH4cZwFi7BU8"
+        },
+        {
+            "fileName": "20200928_083619.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1RiRWOiYy9_FEbdqRs7l4GNbM0Cyyo6NO",
+            "ratio": 0.75,
+            "location": "Kedai Kopi Aan, Batam",
+            "locationUrl": "https://goo.gl/maps/LJUqPjfCZFQhjmrR9"
+        },
+        {
+            "fileName": "20200911_070050.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1YIMjrmYUdibgwyq1jjFH4qpvPL9TVirV",
+            "ratio": 0.75,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20200906_141513.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1MWHbKPS0Zgb74mqQchcLFgy75H3eESOs",
+            "ratio": 1.333333333,
+            "location": "Love Seafood, Batam",
+            "locationUrl": "https://g.page/Loveseafoodbatamcentre?share"
+        },
+        {
+            "fileName": "20200823_201048.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1YQKX3oXaJ0durZ8pYofQlkHzaGBpi_lz",
+            "ratio": 0.75,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20200821_204709.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1eNx2HrVRxN3njXoFCa9wHB7sj_ik37SF",
+            "ratio": 0.75,
+            "location": "Acia Ikan Bakar, Batam",
+            "locationUrl": "https://goo.gl/maps/ZjNeWKF7CuCqj1XH6"
+        },
+        {
+            "fileName": "20200813_184604.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1XRw8Z1fcCHlxlssIPG-oddsQkA_0z3vV",
+            "ratio": 0.75,
+            "location": "Pepper Lunch, Batam",
+            "locationUrl": "https://goo.gl/maps/UonACFyHB5PLPE3H7"
+        },
+        {
+            "fileName": "20200813_184309.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1H0-wIxu7W5qNRnODrAGDwHD1m21XkNDl",
+            "ratio": 1.333333333,
+            "location": "Vegas Cafe & Steak, Batam",
+            "locationUrl": "https://goo.gl/maps/gWyRjxyaNnhHaije9"
+        },
+        {
+            "fileName": "20200808_124513.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=152A1Ou5ToX0Y6_uNXRq59DgbBQk0JM7M",
+            "ratio": 0.75,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20200726_140050.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1dPoc9jDAOwhx_YOEF_I7L0zF7L-ZAQ1x",
+            "ratio": 1,
+            "location": "Janji Jiwa, Batam",
+            "locationUrl": "https://goo.gl/maps/SfHnsNiaEW4UAdwM9"
+        },
+        {
+            "fileName": "20200723_144314.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1j9k5_e5WI6-LYsuiGEDVxITCjwWMG1Y7",
+            "ratio": 0.75,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20200719_201123.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1kAVKcDXS_JXe_14AcLzRJ6Ij8wU15Nag",
+            "ratio": 1.333333333,
+            "location": "Vegas Cafe & Steak, Batam",
+            "locationUrl": "https://goo.gl/maps/gWyRjxyaNnhHaije9"
+        },
+        {
+            "fileName": "20200619_195138.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1mpHNOydGzfF1t1lk3jmVSiKpxR4d9Yyh",
+            "ratio": 1.777777778,
+            "location": "Meilleur Cafe & Patisserie, Batam",
+            "locationUrl": "https://g.page/meilleurbatam?share"
+        },
+        {
+            "fileName": "20200619_194255.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1vHosq4QMfDCX1eWzxrFIAqln1QQoqn4k",
+            "ratio": 1.777777778,
+            "location": "Meilleur Cafe & Patisserie, Batam",
+            "locationUrl": "https://g.page/meilleurbatam?share"
+        },
+        {
+            "fileName": "20200607_165459.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1RnM7Gx-lT1LDbH4kE6sBzCnzZAWzueeD",
+            "ratio": 1.777777778,
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "20200520_200317.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=17h7b6ZT3aNA6wWKAKCVxaa8z9Kn1rQWM",
             "ratio": 0.5625,
-            "date": "2020:01:20 19:48:56",
-            "location": "Myoung Ga, Batam",
-            "locationUrl": "https://goo.gl/maps/i3HAeCyV2eXMpCaq7"
+            "location": "Olive & Co, Batam",
+            "locationUrl": "https://g.page/olive-co-batam?share"
+        },
+        {
+            "fileName": "20200520_194429_001.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1AqFdqBCUx5hNdCOqvog8-eYymmuijREI",
+            "ratio": 1.777777778,
+            "location": "Olive & Co, Batam",
+            "locationUrl": "https://g.page/olive-co-batam?share"
+        },
+        {
+            "fileName": "20200504_114429.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1W2aTBZohGwe2g6uxDnFzn7os44Nn91A9",
+            "ratio": 0.5625,
+            "location": "O'Pempek, Batam",
+            "locationUrl": "https://www.instagram.com/opempekbatam/"
+        },
+        {
+            "fileName": "20200324_161748.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1dpjpvZ14yzOG8cusPovjsv8XqRKCDvsa",
+            "ratio": 0.5625,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20200322_184731.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1GUtGtgSH0RaFSIK8-C-SHlLwyuO_Q-9T",
+            "ratio": 0.5625,
+            "location": "Mie Pangsit Yuw Mie Medan, Batam",
+            "locationUrl": "https://goo.gl/maps/RdALKaH4cZwFi7BU8"
+        },
+        {
+            "fileName": "20200321_140956.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1CTpzJYG08Ia3nAqJcMUQlj-D12LJt7XY",
+            "ratio": 0.5625,
+            "location": "happypasticceria, Batam",
+            "locationUrl": "https://www.instagram.com/happypasticceria"
+        },
+        {
+            "fileName": "20200308_142510.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=188EZ_U64Sdquk4TJqNeRFSxq24QAybZh",
+            "ratio": 0.5625,
+            "location": "Olive & Co, Batam",
+            "locationUrl": "https://g.page/olive-co-batam?share"
+        },
+        {
+            "fileName": "20200223_190553.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1S6BN6ihK1kMZTNJM_PqyqQkCwe4h9Vao",
+            "ratio": 1.777777778,
+            "location": "Holycow! STEAKHOUSE By Chef Afit, Batam",
+            "locationUrl": "https://goo.gl/maps/CWfKgh67ooNVjxGa9"
+        },
+        {
+            "fileName": "20200221_064216.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1yLAs7AbEyWXDg9vAHaEeKz97HLH4tXH5",
+            "ratio": 0.5625,
+            "location": "Mie Ayam Pangsit Bangka, Batam",
+            "locationUrl": "https://goo.gl/maps/NopWzTaN8qdiaVTh9"
         },
         {
             "fileName": "20200206_193928.jpg",
             "url": "http://drive.google.com/uc?export=view&id=1HtsTH8qVTJDlAuc9sid0dfgaAheTqwSR",
             "ratio": 0.5625,
-            "date": "2020:02:06 19:39:28",
             "location": "Piccola Stella, Batam",
             "locationUrl": "https://g.page/piccola-stella-batam?share"
         },
         {
-            "fileName": "20190630_163419_001.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1J5wryRYpmKEPNfw0C-gni1xgZwASwY-6",
+            "fileName": "20200131_214214.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1xUrYD_E0Tupdn2B_Vvs7rOnLokRnitLK",
             "ratio": 0.5625,
-            "date": "2019:06:30 16:34:19",
-            "location": "llaollao, Batam",
-            "locationUrl": "https://goo.gl/maps/w5DvpJy1nhLk8qMy6"
+            "location": "It�s Meat Up, Batam",
+            "locationUrl": "https://goo.gl/maps/xAKtYCaGkBYve3F29"
         },
         {
-            "fileName": "20190727_091046_001.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1KgY2zlP9h22MM8YiJCaip57nK5IGvBAZ",
-            "ratio": 0.5625,
-            "date": "2019:07:27 09:10:46",
-            "location": "",
-            "locationUrl": ""
+            "fileName": "20200127_191417.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=13TJMdQ9fjNboKgo-iTu7OGHKZ9mPSCTO",
+            "ratio": 1.777777778,
+            "location": "Anambas Kopitiam, Batam",
+            "locationUrl": "https://goo.gl/maps/vDNSgnP6wCg5DmyA8"
+        },
+        {
+            "fileName": "20200126_201111.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1fE2PD-IdNGoSEihpGHvbXdehXPLvtf5t",
+            "ratio": 1.777777778,
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "20200126_193153.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1wPdyV0Klgw9J-i9eH_uYAE4m3yUhTFhB",
+            "ratio": 1.777777778,
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
         },
         {
             "fileName": "20200126_192957.jpg",
             "url": "http://drive.google.com/uc?export=view&id=1QInvwlbN-EWO0z3EO180OIi_ES-Me2Ro",
             "ratio": 0.5625,
-            "date": "2020:01:26 19:29:57",
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "20200126_192833.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1rT0FXuupFjdE_BA4uFUDsDYJqEmzsIX0",
+            "ratio": 0.5625,
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "20200126_192807_001.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1vpiOk0_I2D9TcEY-3J9woc-7E5sCWt5-",
+            "ratio": 1.777777778,
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "20200126_192757_001.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1054ReA3HQXqw3chrTKMkA9AS1zKeisBa",
+            "ratio": 1.777777778,
             "location": "Sushi Tei, Batam",
             "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
         },
@@ -2402,15 +1809,251 @@
             "fileName": "20200126_192655.jpg",
             "url": "http://drive.google.com/uc?export=view&id=1VMIAwFjfe3RzM3ZhYRnHSrYFM4016X8q",
             "ratio": 0.5625,
-            "date": "2020:01:26 19:26:55",
             "location": "Sushi Tei, Batam",
             "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "20200126_192647.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=18JycdxuozgkSjDQg6-R8hkPEeTWxl1Fo",
+            "ratio": 1.777777778,
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "20200124_205430.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=114gnQHKXVl8okOPdoT90rgeExZ-S69ow",
+            "ratio": 1.777777778,
+            "location": "Piccola Stella, Batam",
+            "locationUrl": "https://g.page/piccola-stella-batam?share"
+        },
+        {
+            "fileName": "20200124_205406.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1sbQuigvZGMXhqzfX_l8B6nhHb9hXTlAV",
+            "ratio": 1.777777778,
+            "location": "Piccola Stella, Batam",
+            "locationUrl": "https://g.page/piccola-stella-batam?share"
+        },
+        {
+            "fileName": "20200124_150639.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1RZFZMf2yEwM572eQj00OSWOsh1Naip5d",
+            "ratio": 1.777777778,
+            "location": "Anchor Cafe & Roastery",
+            "locationUrl": "https://g.page/anchorcafeandroastery?share"
+        },
+        {
+            "fileName": "20200123_195554.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=15pNpxcKsjfGANJIjnsFbI0Szr8bJDSy4",
+            "ratio": 0.5625,
+            "location": "Martabak 818, Batam",
+            "locationUrl": "https://goo.gl/maps/uYAV3sEDmcBS4eJx7"
+        },
+        {
+            "fileName": "20200120_202616.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1u35eviB0TKPrrIe-jw9zKR-ANCIcE79Q",
+            "ratio": 0.5625,
+            "location": "Myoung Ga, Batam",
+            "locationUrl": "https://goo.gl/maps/i3HAeCyV2eXMpCaq7"
+        },
+        {
+            "fileName": "20200120_194856.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1H-b8Qi7f1UIsuchJ6UukTvQWMaYt81Ll",
+            "ratio": 0.5625,
+            "location": "Myoung Ga, Batam",
+            "locationUrl": "https://goo.gl/maps/i3HAeCyV2eXMpCaq7"
+        },
+        {
+            "fileName": "20200119_095115.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1fttBVuLp0Yn4yzE7oXLLwA9qYa3zcYoy",
+            "ratio": 0.5625,
+            "location": "John Seven Meet & Talk, Batam",
+            "locationUrl": "https://g.page/johnsevenbatam?share"
+        },
+        {
+            "fileName": "20200118_204056.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1cE8bnYVm8fQuXcL5AYY5_MukJRYUdbfN",
+            "ratio": 0.5625,
+            "location": "Kimukatsu, Batam",
+            "locationUrl": "https://goo.gl/maps/UM7pjmWk3Nxv44hV9"
+        },
+        {
+            "fileName": "20200114_192338.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1-6gtSRVSmmD4H-d8ohwD9C-dhVcMd8rp",
+            "ratio": 0.5625,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20200111_200304.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1QfQhXkd2bE2ctQbTt6IvadhfWb7GZrBo",
+            "ratio": 1.777777778,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20200106_194250.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1xTdwPgw7TJDn25oHROZqvhvwlr2JWGLE",
+            "ratio": 1.777777778,
+            "location": "Piccola Stella, Batam",
+            "locationUrl": "https://g.page/piccola-stella-batam?share"
+        },
+        {
+            "fileName": "20200106_194106.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1gbkk-IR6R6kneOf_enOs-kSk5B-5PvLQ",
+            "ratio": 1.777777778,
+            "location": "Piccola Stella, Batam",
+            "locationUrl": "https://g.page/piccola-stella-batam?share"
+        },
+        {
+            "fileName": "20200105_190451.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1-pVrQrNTRciUr5BjFXwLBKaNlKeSoaPF",
+            "ratio": 0.5625,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20200105_190443.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=17MWf6UCwJ7x_z8ijA6oqnNNfD6vwYl8Z",
+            "ratio": 0.5625,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20190811_205439.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1tkIjVhMqAOElfi4x_NTagNcsrzxSLH3q",
+            "ratio": 0.5625,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20190810_081928.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1f_tugoHy8y0nt4IQwQpup5a8BjUnjTIM",
+            "ratio": 0.5625,
+            "location": "Mie Pangsit Yuw Mie Medan, Batam",
+            "locationUrl": "https://goo.gl/maps/RdALKaH4cZwFi7BU8"
+        },
+        {
+            "fileName": "20190809_121137.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1hEiSEUk5uBScIvxOl5nY_j46nddk1LzE",
+            "ratio": 0.5625,
+            "location": "Ayam Bakar Taliwang Pelita, Batam",
+            "locationUrl": "https://goo.gl/maps/ZEGvR1qLyUwNvwJ57"
+        },
+        {
+            "fileName": "20190808_190055_001.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1u1kRMBjF-Cf2KFFKqTJ6oJ7sgq1GOoWP",
+            "ratio": 0.5625,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20190807_211326.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1YNtI6UH_GOQOk9ULO467swp4ovfdt5Nn",
+            "ratio": 1.777777778,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20190807_210941.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1j7okzCOIpCDpX2hEs7tHKX2mMTZZ_zr2",
+            "ratio": 1.777777778,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20190804_173401.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=15wpC7X4lqeIbI6gthZC1eZpdII87WUYp",
+            "ratio": 0.5625,
+            "location": "Sushi Tei, Batam",
+            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
+        },
+        {
+            "fileName": "20190802_121948.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1lqx54r8jIfAxzbcBmhMaPCThWkI795Lf",
+            "ratio": 0.5625,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20190801_181250.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1pnwFGWK3Lz2I3kHIuhSylxx6nNr-Fr-G",
+            "ratio": 0.5625,
+            "location": "Sassy Letuce, Batam",
+            "locationUrl": "https://www.instagram.com/sassylettuce"
+        },
+        {
+            "fileName": "20190727_104200_001.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1ZWwNJePbYeb2qy7UgJulmk3zX8vVMv2x",
+            "ratio": 1.777777778,
+            "location": "Man Man Japanese Unagi Restaurant, Singapore",
+            "locationUrl": "https://goo.gl/maps/CvbgqpNbHpXnEQ4b6"
+        },
+        {
+            "fileName": "20190727_091046_001.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1KgY2zlP9h22MM8YiJCaip57nK5IGvBAZ",
+            "ratio": 0.5625,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20190722_182655.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1hbIJay1rrx50medpqFOnHAL24CPR_vQE",
+            "ratio": 0.5625,
+            "location": "Nam Nam Thai Tea, Batam",
+            "locationUrl": "https://goo.gl/maps/ugFs4ks6bzybGvmw5"
+        },
+        {
+            "fileName": "20190717_204024.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1r6zhYH8QoGqws00OtPocqZb3WHqRf42u",
+            "ratio": 0.5625,
+            "location": "Pepper Lunch, Batam",
+            "locationUrl": "https://goo.gl/maps/UonACFyHB5PLPE3H7"
+        },
+        {
+            "fileName": "20190717_203848.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1pQBWuc1bwU3jleXLJPzgYjrfXaVB608p",
+            "ratio": 0.5625,
+            "location": "Pepper Lunch, Batam",
+            "locationUrl": "https://goo.gl/maps/UonACFyHB5PLPE3H7"
+        },
+        {
+            "fileName": "20190707_085357.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1vNSMjmwxTDXB_2-vW3IhGXOf6TnXPOKt",
+            "ratio": 0.5625,
+            "location": "",
+            "locationUrl": ""
+        },
+        {
+            "fileName": "20190701_212404.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1EgVTbPwrRsyI7Be7W6N7ruPJEMTYaLpw",
+            "ratio": 0.5625,
+            "location": "Waroeng Lamongan Cak Rochman, Batam",
+            "locationUrl": "https://goo.gl/maps/d4oPYhk59btcajqs5"
+        },
+        {
+            "fileName": "20190630_163419_001.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1J5wryRYpmKEPNfw0C-gni1xgZwASwY-6",
+            "ratio": 0.5625,
+            "location": "llaollao, Batam",
+            "locationUrl": "https://goo.gl/maps/w5DvpJy1nhLk8qMy6"
+        },
+        {
+            "fileName": "20190520_114506_006.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1AhZIyrIGTJz1BlpSuVJDR9rarPiB-Xsu",
+            "ratio": 1.777777778,
+            "location": "Swee Choon Tim Sum Restaurant, Singapore",
+            "locationUrl": "https://goo.gl/maps/FG2GStSHDTybKVi58"
         },
         {
             "fileName": "20190520_113729.jpg",
             "url": "http://drive.google.com/uc?export=view&id=1WnnwVslR1p3-ShnPgnFANdusB35gqGni",
             "ratio": 0.5625,
-            "date": "2019:05:20 11:37:29",
+            "location": "Swee Choon Tim Sum Restaurant, Singapore",
+            "locationUrl": "https://goo.gl/maps/FG2GStSHDTybKVi56"
+        },
+        {
+            "fileName": "20190520_113726.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1h4tiKqrVwZwpkYXPXg7MI5YpKyAUl74o",
+            "ratio": 0.5625,
             "location": "Swee Choon Tim Sum Restaurant, Singapore",
             "locationUrl": "https://goo.gl/maps/FG2GStSHDTybKVi56"
         },
@@ -2418,153 +2061,71 @@
             "fileName": "20190520_113442.jpg",
             "url": "http://drive.google.com/uc?export=view&id=1aQDDKgoIrRQ4D7nSKrq6Sa_bZpiEMpeV",
             "ratio": 0.5625,
-            "date": "2019:05:20 11:34:41",
             "location": "Swee Choon Tim Sum Restaurant, Singapore",
             "locationUrl": "https://goo.gl/maps/FG2GStSHDTybKVi56"
-        },
-        {
-            "fileName": "20200118_204056.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1cE8bnYVm8fQuXcL5AYY5_MukJRYUdbfN",
-            "ratio": 0.5625,
-            "date": "2020:01:18 20:40:56",
-            "location": "Kimukatsu, Batam",
-            "locationUrl": "https://goo.gl/maps/UM7pjmWk3Nxv44hV9"
-        },
-        {
-            "fileName": "20190520_113431_001.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1cHjIQKncrG81UiXWiuVWOSdnHd4ql9Pk",
-            "ratio": 0.5625,
-            "date": "2019:05:20 11:34:31",
-            "location": "Swee Choon Tim Sum Restaurant, Singapore",
-            "locationUrl": "https://goo.gl/maps/FG2GStSHDTybKVi56"
-        },
-        {
-            "fileName": "20190810_081928.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1f_tugoHy8y0nt4IQwQpup5a8BjUnjTIM",
-            "ratio": 0.5625,
-            "date": "2019:08:10 08:19:27",
-            "location": "Mie Pangsit Yuw Mie Medan, Batam",
-            "locationUrl": "https://goo.gl/maps/RdALKaH4cZwFi7BU8"
-        },
-        {
-            "fileName": "20200119_095115.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1fttBVuLp0Yn4yzE7oXLLwA9qYa3zcYoy",
-            "ratio": 0.5625,
-            "date": "2020:01:19 09:51:15",
-            "location": "John Seven Meet & Talk, Batam",
-            "locationUrl": "https://g.page/johnsevenbatam?share"
-        },
-        {
-            "fileName": "20190520_113726.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1h4tiKqrVwZwpkYXPXg7MI5YpKyAUl74o",
-            "ratio": 0.5625,
-            "date": "2019:05:20 11:37:25",
-            "location": "Swee Choon Tim Sum Restaurant, Singapore",
-            "locationUrl": "https://goo.gl/maps/FG2GStSHDTybKVi56"
-        },
-        {
-            "fileName": "20190809_121137.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1hEiSEUk5uBScIvxOl5nY_j46nddk1LzE",
-            "ratio": 0.5625,
-            "date": "2019:08:09 12:11:37",
-            "location": "Ayam Bakar Taliwang Pelita, Batam",
-            "locationUrl": "https://goo.gl/maps/ZEGvR1qLyUwNvwJ57"
-        },
-        {
-            "fileName": "20190722_182655.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1hbIJay1rrx50medpqFOnHAL24CPR_vQE",
-            "ratio": 0.5625,
-            "date": "2019:07:22 18:26:55",
-            "location": "Nam Nam Thai Tea, Batam",
-            "locationUrl": "https://goo.gl/maps/ugFs4ks6bzybGvmw5"
         },
         {
             "fileName": "20190520_113437_001.jpg",
             "url": "http://drive.google.com/uc?export=view&id=1lPCO0SDPSgpQjJ3MUJzDCswQXoiRr_rg",
             "ratio": 0.5625,
-            "date": "2019:05:20 11:34:37",
             "location": "Swee Choon Tim Sum Restaurant, Singapore",
             "locationUrl": "https://goo.gl/maps/FG2GStSHDTybKVi56"
         },
         {
-            "fileName": "20190802_121948.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1lqx54r8jIfAxzbcBmhMaPCThWkI795Lf",
+            "fileName": "20190520_113431_001.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1cHjIQKncrG81UiXWiuVWOSdnHd4ql9Pk",
             "ratio": 0.5625,
-            "date": "2019:08:02 12:19:48",
+            "location": "Swee Choon Tim Sum Restaurant, Singapore",
+            "locationUrl": "https://goo.gl/maps/FG2GStSHDTybKVi56"
+        },
+        {
+            "fileName": "20190520_105535.jpg",
+            "url": "http://drive.google.com/uc?export=view&id=1-YM6rw6hlEYU5RG-Ku_0f4m-LWvDue6t",
+            "ratio": 0.5625,
+            "location": "Swee Choon Tim Sum Restaurant, Singapore",
+            "locationUrl": "https://goo.gl/maps/FG2GStSHDTybKVi56"
+        },
+        {
+            "fileName": "201612252.JPG",
+            "url": "http://drive.google.com/uc?export=view&id=1cbFtewAMBpDJP7qK6upKfNVrI-B7faTu",
+            "ratio": 1.784386617,
             "location": "",
             "locationUrl": ""
         },
         {
-            "fileName": "20190717_203848.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1pQBWuc1bwU3jleXLJPzgYjrfXaVB608p",
-            "ratio": 0.5625,
-            "date": "2019:07:17 20:38:48",
-            "location": "Pepper Lunch, Batam",
-            "locationUrl": "https://goo.gl/maps/UonACFyHB5PLPE3H7"
-        },
-        {
-            "fileName": "20190801_181250.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1pnwFGWK3Lz2I3kHIuhSylxx6nNr-Fr-G",
-            "ratio": 0.5625,
-            "date": "2019:08:01 18:12:50",
-            "location": "Sassy Letuce, Batam",
-            "locationUrl": "https://www.instagram.com/sassylettuce"
-        },
-        {
-            "fileName": "20190717_204024.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1r6zhYH8QoGqws00OtPocqZb3WHqRf42u",
-            "ratio": 0.5625,
-            "date": "2019:07:17 20:40:24",
-            "location": "Pepper Lunch, Batam",
-            "locationUrl": "https://goo.gl/maps/UonACFyHB5PLPE3H7"
-        },
-        {
-            "fileName": "20200126_192833.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1rT0FXuupFjdE_BA4uFUDsDYJqEmzsIX0",
-            "ratio": 0.5625,
-            "date": "2020:01:26 19:28:33",
-            "location": "Sushi Tei, Batam",
-            "locationUrl": "https://goo.gl/maps/VxEBsQaVFowdCcvbA"
-        },
-        {
-            "fileName": "20190811_205439.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1tkIjVhMqAOElfi4x_NTagNcsrzxSLH3q",
-            "ratio": 0.5625,
-            "date": "2019:08:11 20:54:38",
+            "fileName": "201612251.JPG",
+            "url": "http://drive.google.com/uc?export=view&id=1z-HxLPQqStPDvXKE1vPtW7KF9PRllGjN",
+            "ratio": 1.784386617,
             "location": "",
             "locationUrl": ""
         },
         {
-            "fileName": "20190808_190055_001.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1u1kRMBjF-Cf2KFFKqTJ6oJ7sgq1GOoWP",
-            "ratio": 0.5625,
-            "date": "2019:08:08 19:00:55",
+            "fileName": "20161106.jpeg",
+            "url": "http://drive.google.com/uc?export=view&id=1wZJrNjI0WgC73e0pPBCjDIzDIjlinBYb",
+            "ratio": 0.75,
             "location": "",
             "locationUrl": ""
         },
         {
-            "fileName": "20200120_202616.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1u35eviB0TKPrrIe-jw9zKR-ANCIcE79Q",
-            "ratio": 0.5625,
-            "date": "2020:01:20 20:26:16",
-            "location": "Myoung Ga, Batam",
-            "locationUrl": "https://goo.gl/maps/i3HAeCyV2eXMpCaq7"
+            "fileName": "20160606.jpeg",
+            "url": "http://drive.google.com/uc?export=view&id=1rttNj55P5DxHcPBzk5-FtU2btvlJQOUQ",
+            "ratio": 1,
+            "location": "In-N-Out Burger, La Mirada",
+            "locationUrl": "https://goo.gl/maps/wZN3LwHrypiGK4Mv5"
         },
         {
-            "fileName": "20190707_085357.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1vNSMjmwxTDXB_2-vW3IhGXOf6TnXPOKt",
-            "ratio": 0.5625,
-            "date": "2019:07:07 08:53:57",
-            "location": "",
-            "locationUrl": ""
+            "fileName": "20150510.JPG",
+            "url": "http://drive.google.com/uc?export=view&id=13XrQJJ3xFtaimY9xApxmCaQRcEfnpoZZ",
+            "ratio": 0.75,
+            "location": "Karangsambung, Kebumen",
+            "locationUrl": "https://goo.gl/maps/QDe4yZj2zoxVNwSE9"
         },
         {
-            "fileName": "20200131_214214.jpg",
-            "url": "http://drive.google.com/uc?export=view&id=1xUrYD_E0Tupdn2B_Vvs7rOnLokRnitLK",
-            "ratio": 0.5625,
-            "date": "2020:01:31 21:42:14",
-            "location": "It�s Meat Up, Batam",
-            "locationUrl": "https://goo.gl/maps/xAKtYCaGkBYve3F29"
+            "fileName": "20150507.JPG",
+            "url": "http://drive.google.com/uc?export=view&id=1fv1czg2SzvVAoxzhCorjyc4jlXIbHUW3",
+            "ratio": 0.75,
+            "location": "Karangsambung, Kebumen",
+            "locationUrl": "https://goo.gl/maps/QDe4yZj2zoxVNwSE9"
         }
     ]
 }
