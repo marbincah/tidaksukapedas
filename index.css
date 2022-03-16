@@ -1,9 +1,15 @@
 body {
-    width: 100%
+    width: 100%;
+    font-family: 'Libre Franklin', sans-serif;
 }
 
 #header {
     text-align: center;
+    max-width: 60vw;
+    margin: auto;
+}
+#header > p {
+    font-size: 20px;
 }
 
 #gallery-wrapper {
@@ -130,8 +136,12 @@ input[type=number] {
 
 /* On screens that are 992px or less */
 @media screen and (max-width: 992px) {
-    #gallery-wrapper {
+    #gallery-wrapper, #header {
         max-width: 80vw;
+    }
+
+    #header > p {
+        font-size: 16px;
     }
 }
 
@@ -141,8 +151,12 @@ input[type=number] {
         margin: 0;
     }
 
-    #gallery-wrapper {
+    #gallery-wrapper, #header {
         max-width: 95vw;
+    }
+
+    #header > p {
+        font-size: 12px;
     }
 
     .modal-content {
