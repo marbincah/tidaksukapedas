@@ -148,7 +148,6 @@ function setImageStyle() {
 
                 rowWidth = wrapperWidth - (row.length - 1) * imageSpace;
                 rowHeight = rowWidth / rowAspectRatio;
-                console.log(rowWidth, rowHeight);
             }
 
             if (row.length != 0 && rowWidth != 0 && rowHeight != 0) {
