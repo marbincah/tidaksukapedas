@@ -84,7 +84,7 @@ function initGallery() {
         pageInput.value = currentPage;
     })
 
-    pageInput.addEventListener("keyup", function (e) {
+    pageInput.addEventListener("change", function (e) {
         inputPage(e.target.value);
     })
 }
