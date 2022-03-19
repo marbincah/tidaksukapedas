@@ -67,25 +67,18 @@ function initGallery() {
         })
     }
 
-    var pageInput = document.getElementById('current-page');
     var nextButton = document.getElementById('next-button');
     nextButton.addEventListener("click", function () {
         if (totalPage > currentPage) {
-            inputPage(currentPage + 1);
+            selectPage(currentPage + 1);
         }
-        pageInput.innerHTML = currentPage;
     })
 
     var prevButton = document.getElementById('prev-button');
     prevButton.addEventListener("click", function () {
         if (currentPage > 1) {
-            inputPage(currentPage - 1);
+            selectPage(currentPage - 1);
         }
-        pageInput.innerHTML = currentPage;
-    })
-
-    pageInput.addEventListener("change", function (e) {
-        inputPage(e.target.value);
     })
 }
 
@@ -199,7 +192,7 @@ function setPagination() {
     pageNumber.innerHTML += "<span><span id='current-page'>" + currentPage + "</span> of " + totalPage + " pages </span>"
 }
 
-function inputPage(page) {
+function selectPage(page) {
     var targetPage = page;
 
     if (page == 0) {
@@ -209,20 +202,17 @@ function inputPage(page) {
     } else if (page < 0) {
         targetPage = 1
     }
-    selectPage(targetPage);
-}
 
-function selectPage(page) {
-    currentPage = page;
+    currentPage = targetPage;
 
     var pageNumber = document.getElementById('page-numbers');
     var pageButton = pageNumber.children;
     for (var i = 0; i < pageButton.length; i++) {
         pageButton[i].classList.remove('active');
-        if (i == page - 1) pageButton[i].classList.add('active')
+        if (i == targetPage - 1) pageButton[i].classList.add('active')
     }
 
-    photos = data.slice(imageIndexPerPage[page-1], imageIndexPerPage[page]);
+    photos = data.slice(imageIndexPerPage[targetPage-1], imageIndexPerPage[targetPage]);
     var wrapper = document.getElementById('gallery-wrapper');
     wrapper.innerHTML = ''
     for (var i = 0; i < photos.length; i++) {
@@ -239,4 +229,7 @@ function selectPage(page) {
     }
 
     setImageStyle();
+    
+    var pageInput = document.getElementById('current-page');
+    pageInput.innerHTML = currentPage;
 }
