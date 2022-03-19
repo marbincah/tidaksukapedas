@@ -120,7 +120,7 @@ function sliceDataArray() {
                 imageIndexPerPage.push(i);
             }
         }
-        totalPage = Math.ceil(data.length / totalImagePerPageOnMobile);
+        totalPage = imageIndexPerPage.length;
     }
 }
 
@@ -229,7 +229,7 @@ function selectPage(page) {
     }
 
     setImageStyle();
-    
+
     var pageInput = document.getElementById('current-page');
     pageInput.innerHTML = currentPage;
 }
