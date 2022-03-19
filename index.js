@@ -67,13 +67,13 @@ function initGallery() {
         })
     }
 
-    var pageInput = document.getElementById('pagination-input');
+    var pageInput = document.getElementById('current-page');
     var nextButton = document.getElementById('next-button');
     nextButton.addEventListener("click", function () {
         if (totalPage > currentPage) {
             inputPage(currentPage + 1);
         }
-        pageInput.value = currentPage;
+        pageInput.innerHTML = currentPage;
     })
 
     var prevButton = document.getElementById('prev-button');
@@ -81,7 +81,7 @@ function initGallery() {
         if (currentPage > 1) {
             inputPage(currentPage - 1);
         }
-        pageInput.value = currentPage;
+        pageInput.innerHTML = currentPage;
     })
 
     pageInput.addEventListener("change", function (e) {
@@ -196,7 +196,7 @@ function shuffleImage() {
 function setPagination() {
     var pageNumber = document.getElementById('page-numbers');
     pageNumber.innerHTML = "";
-    pageNumber.innerHTML += "<input type='number' id='pagination-input' value='" + currentPage + "'><span>of " + totalPage + " pages </span>"
+    pageNumber.innerHTML += "<span><span id='current-page'>" + currentPage + "</span> of " + totalPage + " pages </span>"
 }
 
 function inputPage(page) {
@@ -206,10 +206,8 @@ function inputPage(page) {
         return;
     } else if (page > totalPage) {
         targetPage = totalPage
-        document.getElementById('pagination-input').value = targetPage;
     } else if (page < 0) {
         targetPage = 1
-        document.getElementById('pagination-input').value = targetPage;
     }
     selectPage(targetPage);
 }
