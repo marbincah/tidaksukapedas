@@ -12,6 +12,8 @@ var imageIndexPerPage = [0];
 var limitAspectRatio = 4;
 var imageSpace = 10;
 var wrapperWidth = document.getElementById('gallery-wrapper').getBoundingClientRect().width;
+var locations = [];
+var years = [];
 
 window.addEventListener('resize', function () {
     wrapperWidth = document.getElementById('gallery-wrapper').getBoundingClientRect().width;
@@ -56,6 +58,7 @@ function initGallery() {
     data = obj.photos
     if (data.length > 0) {
         sortImage();
+        setFilter();
         sliceDataArray();
         setPagination();
         selectPage(currentPage);
@@ -121,6 +124,41 @@ function sliceDataArray() {
             }
         }
         totalPage = imageIndexPerPage.length;
+    }
+}
+
+function setFilter() {
+    data.forEach(item => {
+        if (item.location) {
+            var city = item.location.split(", ")[1];
+            !locations.includes(city) && city !== undefined && locations.push(city)
+        }
+
+        if (item.fileName) {
+            var year = item.fileName.substring(0,4)
+            !years.includes(year) && !!parseInt(year) && years.push(year)
+        }
+    });
+
+    var filterWrapper = document.getElementById('filter-wrapper');
+    if (locations.length > 0 && filterWrapper) {
+        locations.sort()
+        filterWrapper.innerHTML += "<select id='location-filter'>"
+        var locationFilter = document.getElementById('location-filter');
+        locationFilter.innerHTML += "<option value=''>Select Location</option>"
+        locations.forEach(location => {
+            locationFilter.innerHTML += "<option value='"+location+"'>"+location+"</option>"
+        })
+    }
+
+    if (years.length > 0 && filterWrapper) {
+        filterWrapper.innerHTML += "<select id='year-filter'>"
+        var yearFilter = document.getElementById('year-filter');
+        yearFilter.innerHTML += "<option value=''>Select Year</option>"
+        years.forEach(year => {
+            yearFilter.innerHTML += "<option value='"+year+"'>"+year+"</option>"
+        })
+
     }
 }
 
