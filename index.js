@@ -61,8 +61,16 @@ function initGallery() {
         setFilter();
         sliceDataArray();
         setPagination();
+        if (sessionStorage.getItem('page')) {
+            currentPage = sessionStorage.getItem('page');
+        }
         selectPage(currentPage);
     }
+
+    window.onbeforeunload = function () {
+        window.scrollTo(0, 0);
+    }
+
     var pageButton = document.getElementsByClassName('page-button');
     for (let i = 0; i < pageButton.length; i++) {
         pageButton[i].addEventListener("click", function () {
@@ -270,4 +278,5 @@ function selectPage(page) {
 
     var pageInput = document.getElementById('current-page');
     pageInput.innerHTML = currentPage;
+    sessionStorage.setItem('page', currentPage);
 }
