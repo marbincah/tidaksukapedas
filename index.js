@@ -3,6 +3,7 @@ xhr.open("GET", "resize.json");
 xhr.addEventListener('load', initGallery);
 xhr.send();
 
+var allData = [];
 var data = [];
 var photos = [];
 var currentPage = 1;
@@ -15,11 +16,30 @@ var wrapperWidth = document.getElementById('gallery-wrapper').getBoundingClientR
 var locations = [];
 var years = [];
 
+
+var locationFilter = document.getElementById('location-filter');
+var yearFilter = document.getElementById('year-filter');
+
 window.addEventListener('resize', function () {
     wrapperWidth = document.getElementById('gallery-wrapper').getBoundingClientRect().width;
     sliceDataArray();
     setPagination();
     setImageStyle(data);
+})
+
+locationFilter && locationFilter.addEventListener('change', function(e) {
+    data = [];
+    data = allData.filter(item => {
+        return item.location.includes(e.target.value)
+    })
+
+    if (data.length > 0) {
+        sortImage();
+        sliceDataArray();
+        currentPage = 1;
+        setPagination();
+        selectPage(currentPage);
+    }
 })
 
 function popupImage() {
@@ -55,7 +75,8 @@ function popupImage() {
 function initGallery() {
     var json = this.responseText;
     var obj = JSON.parse(json);
-    data = obj.photos
+    allData = obj.photos
+    data = [...allData];
     if (data.length > 0) {
         sortImage();
         setFilter();
@@ -97,7 +118,7 @@ function sliceDataArray() {
     var rowAspectRatio = 0;
     var totalRow = 0;
     var row = []
-    imageIndexPerPage = [];
+    imageIndexPerPage = [0];
     if (window.screen.width > 600) {
         for (var i = 0; i < data.length; i++) {
             rowAspectRatio += data[i].ratio;
@@ -107,7 +128,6 @@ function sliceDataArray() {
             var rowHeight = 0;
             if (rowAspectRatio >= limitAspectRatio || i + 1 == data.length) {
                 rowAspectRatio = Math.max(rowAspectRatio, limitAspectRatio);
-
                 rowWidth = wrapperWidth - (row.length - 1) * imageSpace;
                 rowHeight = rowWidth / rowAspectRatio;
             }
@@ -124,7 +144,12 @@ function sliceDataArray() {
                 }
             }
         }
-        totalPage = imageIndexPerPage.length - 1;
+
+        if (imageIndexPerPage.length > 1) {
+            totalPage = imageIndexPerPage.length - 1;
+        } else {
+            totalPage = imageIndexPerPage.length;
+        }
     } else {
         for (var i = 0; i < data.length; i+=totalImagePerPageOnMobile) {
             if ((i % totalImagePerPageOnMobile === 0 && i !== 0) || i == data.length - 1 ) {
@@ -148,23 +173,18 @@ function setFilter() {
         }
     });
 
-    var filterWrapper = document.getElementById('filter-wrapper');
-    if (locations.length > 0 && filterWrapper) {
+    if (locations.length > 0) {
         locations.sort()
-        filterWrapper.innerHTML += "<select id='location-filter'>"
-        var locationFilter = document.getElementById('location-filter');
-        locationFilter.innerHTML += "<option value=''>Select Location</option>"
+        if (locationFilter != null) locationFilter.innerHTML += "<option value=''>Select Location</option>"
         locations.forEach(location => {
-            locationFilter.innerHTML += "<option value='"+location+"'>"+location+"</option>"
+            if(locationFilter != null) locationFilter.innerHTML += "<option value='"+location+"'>"+location+"</option>"
         })
     }
 
-    if (years.length > 0 && filterWrapper) {
-        filterWrapper.innerHTML += "<select id='year-filter'>"
-        var yearFilter = document.getElementById('year-filter');
-        yearFilter.innerHTML += "<option value=''>Select Year</option>"
+    if (years.length > 0) {
+        if (yearFilter != null) yearFilter.innerHTML += "<option value=''>Select Year</option>"
         years.forEach(year => {
-            yearFilter.innerHTML += "<option value='"+year+"'>"+year+"</option>"
+            if (yearFilter != null) yearFilter.innerHTML += "<option value='"+year+"'>"+year+"</option>"
         })
 
     }
@@ -240,7 +260,6 @@ function setPagination() {
 
 function selectPage(page) {
     var targetPage = page;
-
     if (page == 0) {
         return;
     } else if (page > totalPage) {
@@ -258,7 +277,7 @@ function selectPage(page) {
         if (i == targetPage - 1) pageButton[i].classList.add('active')
     }
 
-    photos = data.slice(imageIndexPerPage[targetPage-1], imageIndexPerPage[targetPage]);
+    photos = data.slice(imageIndexPerPage[targetPage-1], imageIndexPerPage[targetPage]+1);
     var wrapper = document.getElementById('gallery-wrapper');
     wrapper.innerHTML = ''
     for (var i = 0; i < photos.length; i++) {
