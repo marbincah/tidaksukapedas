@@ -175,14 +175,14 @@ function setFilter() {
 
     if (locations.length > 0) {
         locations.sort()
-        if (locationFilter != null) locationFilter.innerHTML += "<option value=''>Select Location</option>"
+        if (locationFilter != null) locationFilter.innerHTML += "<option value=''>All Location</option>"
         locations.forEach(location => {
             if(locationFilter != null) locationFilter.innerHTML += "<option value='"+location+"'>"+location+"</option>"
         })
     }
 
     if (years.length > 0) {
-        if (yearFilter != null) yearFilter.innerHTML += "<option value=''>Select Year</option>"
+        if (yearFilter != null) yearFilter.innerHTML += "<option value=''>All Year</option>"
         years.forEach(year => {
             if (yearFilter != null) yearFilter.innerHTML += "<option value='"+year+"'>"+year+"</option>"
         })
