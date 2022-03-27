@@ -12,9 +12,21 @@ body {
     font-size: 20px;
 }
 
-#gallery-wrapper {
+#gallery-wrapper, #filter-wrapper {
     max-width: 60vw;
     margin: auto;
+    text-align: center;
+}
+
+#filter-wrapper {
+    margin: 10px auto;
+}
+
+#filter-wrapper > select {
+    margin: 10px;
+}
+
+#gallery-wrapper{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
