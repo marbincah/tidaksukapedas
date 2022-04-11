@@ -42,6 +42,21 @@ locationFilter && locationFilter.addEventListener('change', function(e) {
     }
 })
 
+yearFilter && yearFilter.addEventListener('change', function(e) {
+    data = [];
+    data = allData.filter(item => {
+        return item.fileName.slice(0,4) === e.target.value;
+    })
+
+    if (data.length > 0) {
+        sortImage();
+        sliceDataArray();
+        currentPage = 1;
+        setPagination();
+        selectPage(currentPage);
+    }
+})
+
 function popupImage() {
     var modal = document.getElementById('modal');
     var food = document.getElementsByClassName('food');
