@@ -277,7 +277,7 @@ function selectPage(page) {
         if (i == targetPage - 1) pageButton[i].classList.add('active')
     }
 
-    photos = data.slice(imageIndexPerPage[targetPage-1], imageIndexPerPage[targetPage]+1);
+    photos = data.slice(imageIndexPerPage[targetPage-1], imageIndexPerPage[targetPage]);
     var wrapper = document.getElementById('gallery-wrapper');
     wrapper.innerHTML = ''
     for (var i = 0; i < photos.length; i++) {
