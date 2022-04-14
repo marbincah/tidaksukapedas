@@ -301,6 +301,9 @@ function selectPage(page) {
 
     if (currentPage == 1) {
         document.getElementById('prev-button').classList.add('disabled');
+        if (totalPage == 1) {
+            document.getElementById('next-button').classList.add('disabled');
+        }
     } else if (currentPage == totalPage) {
         document.getElementById('next-button').classList.add('disabled');
     } else {
