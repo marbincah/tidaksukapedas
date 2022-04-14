@@ -155,7 +155,7 @@ function sliceDataArray() {
                 totalRow += 1;
                 if (totalRow == 10 || i == data.length - 1) {
                     totalRow = 0;
-                    imageIndexPerPage.push(i);
+                    imageIndexPerPage.push(i+1);
                 }
             }
         }
