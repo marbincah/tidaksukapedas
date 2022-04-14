@@ -27,35 +27,9 @@ window.addEventListener('resize', function () {
     setImageStyle(data);
 })
 
-locationFilter && locationFilter.addEventListener('change', function(e) {
-    data = [];
-    data = allData.filter(item => {
-        return item.location.includes(e.target.value)
-    })
+locationFilter && locationFilter.addEventListener('change', filterData);
 
-    if (data.length > 0) {
-        sortImage();
-        sliceDataArray();
-        currentPage = 1;
-        setPagination();
-        selectPage(currentPage);
-    }
-})
-
-yearFilter && yearFilter.addEventListener('change', function(e) {
-    data = [];
-    data = allData.filter(item => {
-        return item.fileName.slice(0,4) === e.target.value;
-    })
-
-    if (data.length > 0) {
-        sortImage();
-        sliceDataArray();
-        currentPage = 1;
-        setPagination();
-        selectPage(currentPage);
-    }
-})
+yearFilter && yearFilter.addEventListener('change', function() {filterData()});
 
 function popupImage() {
     var modal = document.getElementById('modal');
@@ -318,4 +292,33 @@ function selectPage(page) {
     var pageInput = document.getElementById('current-page');
     pageInput.innerHTML = currentPage;
     sessionStorage.setItem('page', currentPage);
+}
+
+function filterData() {
+    data = [];
+
+    data = allData.filter(item => {
+        return item.location.includes(locationFilter.value)
+    })
+
+    if (yearFilter.value !== '') {
+        data = data.filter(item => {
+            return item.fileName.slice(0,4) === yearFilter.value;
+        })
+    }
+
+    if (data.length > 0) {
+        sortImage();
+        sliceDataArray();
+        setPagination();
+        currentPage = 1;
+        selectPage(currentPage);
+    } else {
+        document.getElementById('gallery-wrapper').innerHTML = "<p>Sorry, no data found</p>"
+        document.getElementById('gallery-pagination').style.display = 'none';
+    }
+
+
+    
+
 }
