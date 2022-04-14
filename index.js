@@ -270,7 +270,9 @@ function shuffleImage() {
 function setPagination() {
     var pageNumber = document.getElementById('page-numbers');
     pageNumber.innerHTML = "";
-    pageNumber.innerHTML += "<span><span id='current-page'>" + currentPage + "</span> of " + totalPage + " pages </span>"
+    pageNumber.innerHTML += "<span><span id='current-page'>" + currentPage + "</span> of " + totalPage + " page(s) </span>"
+
+    document.getElementById('gallery-pagination').style.display = 'block';
 }
 
 function selectPage(page) {
